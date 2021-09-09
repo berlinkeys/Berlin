@@ -22236,7 +22236,7 @@
   (symbol (lib_id "Boston-keyboard-rescue:MXSwitch-Acheron") (at 458.47 256.54 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e8acd37d-476d-43ee-b137-2931b7018561)
-    (property "Reference" "SW7,13" (id 0) (at 458.47 254 0)
+    (property "Reference" "SW7,13" (id 0) (at 454.66 254 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MXSwitch" (id 1) (at 454.66 257.81 0)
