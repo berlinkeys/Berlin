@@ -23824,8 +23824,32 @@
   )
 
   (gr_line (start 462.28 57.785) (end 462.915 58.42) (layer "F.Cu") (width 0.2) (tstamp 29c6cd5b-0a29-4fcc-b519-94d4b2321b61))
+  (gr_poly
+    (pts
+
+      (xy 149.225 57.785)
+      (xy 462.915 57.785)
+      (xy 462.915 224.79)
+      (xy 31.115 224.79)
+      (xy 31.115 57.785)
+      (xy 137.795 57.785)
+      (xy 137.795 51.435)
+      (xy 149.225 51.435)
+    ) (layer "B.Cu") (width 0.2) (fill none) (tstamp 179de0f5-1362-4a6d-aea3-9ad63d0b1980))
   (gr_rect (start 462.915 224.79) (end 30.734 57.785) (layer "Dwgs.User") (width 0.15) (fill none) (tstamp 3593c892-b19d-4863-aa68-0589527059f9))
   (gr_rect (start 149.225 48.895) (end 137.795 57.785) (layer "Dwgs.User") (width 0.15) (fill none) (tstamp 4949e0d0-2f51-4837-a1d4-05fc5cfd9f97))
+  (gr_poly
+    (pts
+
+      (xy 149.225 57.785)
+      (xy 462.915 57.785)
+      (xy 462.915 224.79)
+      (xy 31.115 224.79)
+      (xy 31.115 57.785)
+      (xy 137.795 57.785)
+      (xy 137.795 51.435)
+      (xy 149.225 51.435)
+    ) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 4fd409de-66fb-4f64-b5dc-490678cfee77))
 
   (segment (start 33.02 131.698) (end 33.02 133.1595) (width 0.25) (layer "B.Cu") (net 0) (tstamp 0065e1ce-9c47-4345-9cda-cad50a03be2b))
   (segment (start 142.20825 153.06675) (end 138.65225 153.06675) (width 0.2) (layer "B.Cu") (net 0) (tstamp 0172e8f7-52b2-435c-9cd8-e5cc92fed508))
