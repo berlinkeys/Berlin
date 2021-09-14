@@ -55,7 +55,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|350837500|69850000|ad1b4115-9eeb-4539-b864-f696262f779c|748769d8-260a-4acf-868e-724e6503d29d"
+      ],
       "meta": {
         "version": 2
       },
@@ -85,7 +87,7 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
