@@ -11707,7 +11707,7 @@
   (symbol (lib_id "Device:L_Core_Ferrite") (at 782.32 105.41 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 455c4cbb-3d0b-48d2-aa90-82ba22ea7714)
-    (property "Reference" "L?" (id 0) (at 784.86 106.68 0)
+    (property "Reference" "L702" (id 0) (at 784.86 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "L_Core_Ferrite" (id 1) (at 784.86 109.22 0)
@@ -14435,7 +14435,7 @@
   (symbol (lib_id "Device:R") (at 812.8 43.18 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 428cb4ff-8001-4f58-9763-4c9d4bfa8d79)
-    (property "Reference" "R?" (id 0) (at 812.8 37.9222 90))
+    (property "Reference" "R705" (id 0) (at 812.8 37.9222 90))
     (property "Value" "5.1k" (id 1) (at 812.8 40.2336 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (id 2) (at 812.8 41.402 90)
       (effects (font (size 1.27 1.27)) hide)
@@ -14447,12 +14447,12 @@
     (pin "2" (uuid 280b6e60-bde7-428d-85e2-685d20fcf864))
   )
 
-  (symbol (lib_id "Device:R") (at 812.8 48.26 270) (unit 1)
+  (symbol (lib_id "Device:R") (at 812.8 48.26 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid dfa159c0-cbeb-44f7-88a4-7dbd5dc37fbf)
-    (property "Reference" "R?" (id 0) (at 812.8 53.34 90))
-    (property "Value" "5.1k" (id 1) (at 812.8 50.8 90))
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (id 2) (at 812.8 46.482 90)
+    (property "Reference" "R706" (id 0) (at 812.8 50.8 90))
+    (property "Value" "5.1k" (id 1) (at 812.8 53.34 90))
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (id 2) (at 812.8 50.038 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 812.8 48.26 0)
@@ -14635,7 +14635,7 @@
   (symbol (lib_id "Diode:1N4148") (at 40.64 63.5 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 60196dda-25d5-498d-b406-264681253980)
-    (property "Reference" "D?" (id 0) (at 42.6466 62.3316 90)
+    (property "Reference" "D1" (id 0) (at 42.6466 62.3316 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 42.6466 64.643 90)
@@ -14654,7 +14654,7 @@
   (symbol (lib_id "Diode:1N4148") (at 46.99 91.44 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 357f54eb-520f-448a-b573-7e2d3889c925)
-    (property "Reference" "D?" (id 0) (at 48.9966 90.2716 90)
+    (property "Reference" "D2" (id 0) (at 48.9966 90.2716 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 48.9966 92.583 90)
@@ -14673,7 +14673,7 @@
   (symbol (lib_id "Diode:1N4148") (at 46.99 130.81 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d40476c6-52fa-4b72-828a-5a05bef97a6f)
-    (property "Reference" "D?" (id 0) (at 48.9966 129.6416 90)
+    (property "Reference" "D3" (id 0) (at 48.9966 129.6416 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 48.9966 131.953 90)
@@ -14692,7 +14692,7 @@
   (symbol (lib_id "Diode:1N4148") (at 46.99 158.75 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3e23482e-9ffc-48a5-989b-6bb12d63e461)
-    (property "Reference" "D?" (id 0) (at 48.9966 157.5816 90)
+    (property "Reference" "D4" (id 0) (at 48.9966 157.5816 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 48.9966 159.893 90)
@@ -14711,7 +14711,7 @@
   (symbol (lib_id "Diode:1N4148") (at 46.99 186.69 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0141fa9e-97a3-43ef-b56d-0c46dade037c)
-    (property "Reference" "D?" (id 0) (at 48.9966 185.5216 90)
+    (property "Reference" "D5" (id 0) (at 48.9966 185.5216 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 48.9966 187.833 90)
@@ -14730,7 +14730,7 @@
   (symbol (lib_id "Diode:1N4148") (at 46.99 214.63 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 64585ac1-a51f-419d-b95c-b232255bdeb5)
-    (property "Reference" "D?" (id 0) (at 48.9966 213.4616 90)
+    (property "Reference" "D6" (id 0) (at 48.9966 213.4616 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 48.9966 215.773 90)
@@ -14749,7 +14749,7 @@
   (symbol (lib_id "Diode:1N4148") (at 46.99 243.84 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9efe9b7b-8661-44bc-86b0-aab23d854af3)
-    (property "Reference" "D?" (id 0) (at 48.9966 242.6716 90)
+    (property "Reference" "D7" (id 0) (at 48.9966 242.6716 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4148" (id 1) (at 48.9966 244.983 90)
@@ -23045,7 +23045,7 @@
   (symbol (lib_id "Boston-controller-STM32-rescue:AP63203WU-7-Acheron") (at 836.93 156.845 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e6b600f4-55a8-4d3d-bb25-3424a2ddfd67)
-    (property "Reference" "U?" (id 0) (at 836.93 142.494 0))
+    (property "Reference" "U702" (id 0) (at 836.93 142.494 0))
     (property "Value" "AP63203WU-7" (id 1) (at 836.93 144.8054 0))
     (property "Footprint" "Package_TO_SOT_SMD:TSOT-23-6_HandSoldering" (id 2) (at 836.93 167.005 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -23754,10 +23754,28 @@
     (path "/f357306f-2ad5-4143-9637-ab1a1f1990fc"
       (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
-    (path "/01411503-47d2-4625-8a9f-54c36f67c49d"
-      (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
+    (path "/60196dda-25d5-498d-b406-264681253980"
+      (reference "D1") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
+    )
+    (path "/357f54eb-520f-448a-b573-7e2d3889c925"
+      (reference "D2") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
+    )
+    (path "/d40476c6-52fa-4b72-828a-5a05bef97a6f"
+      (reference "D3") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
+    )
+    (path "/3e23482e-9ffc-48a5-989b-6bb12d63e461"
+      (reference "D4") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/0141fa9e-97a3-43ef-b56d-0c46dade037c"
+      (reference "D5") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
+    )
+    (path "/64585ac1-a51f-419d-b95c-b232255bdeb5"
+      (reference "D6") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
+    )
+    (path "/9efe9b7b-8661-44bc-86b0-aab23d854af3"
+      (reference "D7") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
+    )
+    (path "/01411503-47d2-4625-8a9f-54c36f67c49d"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/0283f949-8942-45e9-a527-58a7a3d1b6b5"
@@ -23859,16 +23877,10 @@
     (path "/2d57c8f5-6f68-46d4-9b7d-bdb12c40fd0e"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
-    (path "/357f54eb-520f-448a-b573-7e2d3889c925"
-      (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
-    )
     (path "/3a7de9c1-8287-4aa9-bfe9-ae497d599e88"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/3d544c9e-b3ef-42ca-bf0e-9cb945a903ba"
-      (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
-    )
-    (path "/3e23482e-9ffc-48a5-989b-6bb12d63e461"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/3e7ba67a-daf7-42cf-8e34-7db9fea1787e"
@@ -23904,13 +23916,7 @@
     (path "/5c728750-b5da-49e3-9aaf-1900031651ba"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
-    (path "/60196dda-25d5-498d-b406-264681253980"
-      (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
-    )
     (path "/6031d3f6-ffb0-4501-a827-09516c66b8c6"
-      (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
-    )
-    (path "/64585ac1-a51f-419d-b95c-b232255bdeb5"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/64a92770-410e-4b92-a8a3-f5f6da649f2b"
@@ -24018,9 +24024,6 @@
     (path "/99b12131-d8e6-49cf-9b5c-d3244f748201"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
-    (path "/9efe9b7b-8661-44bc-86b0-aab23d854af3"
-      (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
-    )
     (path "/a346ec85-6165-4604-9aa2-8b637f2b23b4"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
@@ -24073,9 +24076,6 @@
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/d25c6977-b750-4beb-89a1-a2882eebf483"
-      (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
-    )
-    (path "/d40476c6-52fa-4b72-828a-5a05bef97a6f"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/d6c8b537-adcf-432f-8c22-19b5c5441992"
@@ -24157,7 +24157,7 @@
       (reference "J2") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
     )
     (path "/455c4cbb-3d0b-48d2-aa90-82ba22ea7714"
-      (reference "L?") (unit 1) (value "L_Core_Ferrite") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+      (reference "L702") (unit 1) (value "L_Core_Ferrite") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/81119b09-c2f2-4eb0-bbce-c0f875f0ffe7"
       (reference "L?") (unit 1) (value "6.8uH") (footprint "SumidaInductor:Sumida0624CDMCC")
@@ -24612,6 +24612,12 @@
     (path "/fa78e8b7-2e54-49be-9f2d-c7cb5327ddd9"
       (reference "Q?") (unit 1) (value "AO4406AL") (footprint "acheronComponents:SOIC-8")
     )
+    (path "/428cb4ff-8001-4f58-9763-4c9d4bfa8d79"
+      (reference "R705") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/dfa159c0-cbeb-44f7-88a4-7dbd5dc37fbf"
+      (reference "R706") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
     (path "/01771759-b32f-40aa-b41a-2b3924d88905"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
@@ -24716,9 +24722,6 @@
     )
     (path "/421cd5bc-6a9a-4028-a288-fa8f48ca486a"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/428cb4ff-8001-4f58-9763-4c9d4bfa8d79"
-      (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/433e8cd7-f157-459c-b5de-f3137c52f7ca"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -25013,9 +25016,6 @@
     )
     (path "/df7c73d6-61aa-49fb-91aa-a03426e3581f"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/dfa159c0-cbeb-44f7-88a4-7dbd5dc37fbf"
-      (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/e320a312-512a-4b00-8586-7a1c51890e83"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -25446,6 +25446,9 @@
     (path "/b10b63ef-46f2-4433-8852-57de5d0f3d2e"
       (reference "U3") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
+    (path "/e6b600f4-55a8-4d3d-bb25-3424a2ddfd67"
+      (reference "U702") (unit 1) (value "AP63203WU-7") (footprint "Package_TO_SOT_SMD:TSOT-23-6_HandSoldering")
+    )
     (path "/4ff33222-78b8-4563-8254-3509832aae3c"
       (reference "U1001") (unit 1) (value "STM32F072VBTx") (footprint "Package_QFP:LQFP-100_14x14mm_P0.5mm")
     )
@@ -25454,9 +25457,6 @@
     )
     (path "/77ff8f48-5003-49a9-b1e3-72719bdf4f58"
       (reference "U?") (unit 1) (value "STM32F072CBTx") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
-    )
-    (path "/e6b600f4-55a8-4d3d-bb25-3424a2ddfd67"
-      (reference "U?") (unit 1) (value "AP63203WU-7") (footprint "Package_TO_SOT_SMD:TSOT-23-6_HandSoldering")
     )
     (path "/da6c8591-8b7c-48e4-92fa-8db131c8d957"
       (reference "UA?") (unit 1) (value "STM32F072CBUx") (footprint "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm")
