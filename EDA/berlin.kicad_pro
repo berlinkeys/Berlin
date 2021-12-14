@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 2.35,
-          "width": 3.5
+          "height": 0.3048,
+          "width": 1.1938
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -55,9 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "hole_clearance|350837500|69850000|ad1b4115-9eeb-4539-b864-f696262f779c|748769d8-260a-4acf-868e-724e6503d29d"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
