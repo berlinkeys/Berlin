@@ -16425,7 +16425,7 @@
   (symbol (lib_id "Device:C") (at 1078.23 229.87 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5ac479b6-1799-4ef5-b7b1-c7c0588a76d3)
-    (property "Reference" "C?" (id 0) (at 1074.42 231.14 90)
+    (property "Reference" "C715" (id 0) (at 1074.42 232.41 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (id 1) (at 1082.04 232.41 90)
@@ -18144,7 +18144,7 @@
   (symbol (lib_id "Diode:1N4148") (at 1054.1 226.06 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7e3eb5fc-b83e-468e-86ab-046935121cbf)
-    (property "Reference" "D?" (id 0) (at 1050.29 231.3686 0))
+    (property "Reference" "D703" (id 0) (at 1050.29 231.3686 0))
     (property "Value" "1N4148" (id 1) (at 1051.56 229.235 0))
     (property "Footprint" "acheronComponents:D_SOD-123" (id 2) (at 1054.1 221.615 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -19234,7 +19234,7 @@
   (symbol (lib_id "Device:R") (at 1069.34 229.87 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 91de8ea9-9aa0-4ce8-9026-88d7f51f2315)
-    (property "Reference" "R?" (id 0) (at 1066.8 232.41 90)
+    (property "Reference" "R702" (id 0) (at 1066.8 232.41 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1M 1%" (id 1) (at 1071.88 233.68 90)
@@ -20196,7 +20196,7 @@
   (symbol (lib_id "Device:R") (at 1062.99 226.06 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a3fc76e1-94a5-4d6a-a844-ee5277360baa)
-    (property "Reference" "R?" (id 0) (at 1064.26 228.6 90)
+    (property "Reference" "R711" (id 0) (at 1064.26 228.6 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "330k 1%" (id 1) (at 1066.8 223.52 90)
@@ -22282,7 +22282,7 @@
   (symbol (lib_id "Transistor_BJT:DTC123J") (at 1045.21 208.28 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid cd6c4e0c-0e3e-425e-b923-c3646427d83c)
-    (property "Reference" "Q?" (id 0) (at 1045.21 200.025 90))
+    (property "Reference" "Q701" (id 0) (at 1045.21 200.025 90))
     (property "Value" "DTC123J" (id 1) (at 1045.21 202.3364 90))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 1045.21 208.28 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
@@ -22872,7 +22872,7 @@
   (symbol (lib_id "Device:C") (at 1064.26 209.55 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d938119e-ac29-4792-a26b-cb870a6dceeb)
-    (property "Reference" "C?" (id 0) (at 1068.07 213.36 90)
+    (property "Reference" "C711" (id 0) (at 1068.07 213.36 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (id 1) (at 1060.45 213.36 90)
@@ -23232,7 +23232,7 @@
   (symbol (lib_id "Device:R") (at 1054.1 205.74 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid df7c73d6-61aa-49fb-91aa-a03426e3581f)
-    (property "Reference" "R?" (id 0) (at 1056.64 208.28 90)
+    (property "Reference" "R703" (id 0) (at 1056.64 208.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100 1%" (id 1) (at 1057.91 203.2 90)
@@ -24557,7 +24557,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 1035.05 226.06 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f938b916-7cc3-463c-bac4-512c6ed1278c)
-    (property "Reference" "SW?" (id 0) (at 1035.05 218.821 0))
+    (property "Reference" "SW200" (id 0) (at 1035.05 218.821 0))
     (property "Value" "SW_Push" (id 1) (at 1035.05 221.1324 0))
     (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm" (id 2) (at 1035.05 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -25102,8 +25102,14 @@
     (path "/6e07b221-7ab5-4bdc-b72c-e6db203ec916"
       (reference "C710") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
+    (path "/d938119e-ac29-4792-a26b-cb870a6dceeb"
+      (reference "C711") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
     (path "/8c11f89b-08b5-4aec-8104-98c04a450db2"
       (reference "C714") (unit 1) (value "4.7n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/5ac479b6-1799-4ef5-b7b1-c7c0588a76d3"
+      (reference "C715") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/9d44c771-d579-4696-ab84-f8105324921f"
       (reference "C717") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -25134,9 +25140,6 @@
     )
     (path "/568b9b7e-fae7-44a5-a0f3-260baa612aab"
       (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/5ac479b6-1799-4ef5-b7b1-c7c0588a76d3"
-      (reference "C?") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/60393da6-9869-4f39-8d2c-195301ff6327"
       (reference "C?") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -25192,9 +25195,6 @@
     (path "/d1b48419-5d3c-433d-8efd-7cb6cdb0de07"
       (reference "C?") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
-    (path "/d938119e-ac29-4792-a26b-cb870a6dceeb"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
     (path "/daa106dd-6dae-46d2-93d0-f0e8ba747476"
       (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
@@ -25236,6 +25236,9 @@
     )
     (path "/59d78aa9-064a-494e-81ef-29cddf412066"
       (reference "D701") (unit 1) (value "RB060M-60TR") (footprint "acheronComponents:D_SOD-123")
+    )
+    (path "/7e3eb5fc-b83e-468e-86ab-046935121cbf"
+      (reference "D703") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/01411503-47d2-4625-8a9f-54c36f67c49d"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
@@ -25421,9 +25424,6 @@
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/77b110e5-2968-4012-b5ce-a02b0f0360cc"
-      (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
-    )
-    (path "/7e3eb5fc-b83e-468e-86ab-046935121cbf"
       (reference "D?") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/7e48fd95-993b-4042-b245-4d6e8d8b91d0"
@@ -26066,7 +26066,7 @@
       (reference "LOGO?") (unit 1) (value "Logo_Open_Hardware_Large") (footprint "Symbol:OSHW-Logo_11.4x12mm_SilkScreen")
     )
     (path "/cd6c4e0c-0e3e-425e-b923-c3646427d83c"
-      (reference "Q?") (unit 1) (value "DTC123J") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q701") (unit 1) (value "DTC123J") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/fa78e8b7-2e54-49be-9f2d-c7cb5327ddd9"
       (reference "Q?") (unit 1) (value "AO4406AL") (footprint "acheronComponents:SOIC-8")
@@ -26074,11 +26074,20 @@
     (path "/5ae093f6-285f-442e-a701-16cac7ddec9c"
       (reference "R701") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
+    (path "/91de8ea9-9aa0-4ce8-9026-88d7f51f2315"
+      (reference "R702") (unit 1) (value "1M 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/df7c73d6-61aa-49fb-91aa-a03426e3581f"
+      (reference "R703") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
     (path "/428cb4ff-8001-4f58-9763-4c9d4bfa8d79"
       (reference "R705") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/dfa159c0-cbeb-44f7-88a4-7dbd5dc37fbf"
       (reference "R706") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
+    )
+    (path "/a3fc76e1-94a5-4d6a-a844-ee5277360baa"
+      (reference "R711") (unit 1) (value "330k 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/01771759-b32f-40aa-b41a-2b3924d88905"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -26308,9 +26317,6 @@
     (path "/8f8fd65d-6387-400f-917d-8e94c11143bc"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
-    (path "/91de8ea9-9aa0-4ce8-9026-88d7f51f2315"
-      (reference "R?") (unit 1) (value "1M 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
     (path "/9400d2ba-52b1-4a99-b883-f2e4a7025a7d"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
@@ -26346,9 +26352,6 @@
     )
     (path "/a300c4ac-a86e-44f4-8427-3f2a71bef93c"
       (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/a3fc76e1-94a5-4d6a-a844-ee5277360baa"
-      (reference "R?") (unit 1) (value "330k 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/a62779b3-378c-4e1a-b8d1-f11cfb89b0b3"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
@@ -26471,9 +26474,6 @@
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/df02c698-81fe-411c-a26d-f749955d69da"
-      (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
-    )
-    (path "/df7c73d6-61aa-49fb-91aa-a03426e3581f"
       (reference "R?") (unit 1) (value "100 1%") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/e320a312-512a-4b00-8586-7a1c51890e83"
@@ -26896,11 +26896,11 @@
     (path "/e60db048-2240-498c-8d96-f79100e48781"
       (reference "SW64-7,9") (unit 1) (value "MXSwitch") (footprint "acheron_MX:MX150")
     )
+    (path "/f938b916-7cc3-463c-bac4-512c6ed1278c"
+      (reference "SW200") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H5mm")
+    )
     (path "/1735d6eb-7a45-468f-9160-1e0e4301d5b1"
       (reference "SW?") (unit 1) (value "MXSwitch") (footprint "acheron_MX:MX100")
-    )
-    (path "/f938b916-7cc3-463c-bac4-512c6ed1278c"
-      (reference "SW?") (unit 1) (value "SW_Push") (footprint "Button_Switch_THT:SW_PUSH_6mm_H5mm")
     )
     (path "/b10b63ef-46f2-4433-8852-57de5d0f3d2e"
       (reference "U3") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
