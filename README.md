@@ -12,6 +12,7 @@ Dead space was never an option, so why not add an LCD instead of LED Indicators.
 
 ## Features
 * 122-key in ISO configuration
+* 127 Local lighting zones
 * 2 rotary encoders
 * Cherry MX Hotswap Ready
 * Full-size Numpad
