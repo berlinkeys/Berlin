@@ -5,9 +5,10 @@
 
 import pcbnew
 import ctypes
-board = pcbnew.GetBoard()
+
 
 def Ground():
+    board = pcbnew.GetBoard()
     self = board
 
     print("Attempting to Ground out all selected Pads, Vias and Traces...")
