@@ -5330,6 +5330,12 @@
     (uuid fe14c012-3d58-4e5e-9a37-4b9765a7f764)
   )
 
+  (no_connect (at 1041.4 228.6) (uuid 10c615a9-740a-4275-80ea-5c30d30a2e87))
+  (no_connect (at 1041.4 220.98) (uuid 10c615a9-740a-4275-80ea-5c30d30a2e87))
+  (no_connect (at 1041.4 223.52) (uuid 10c615a9-740a-4275-80ea-5c30d30a2e87))
+  (no_connect (at 1041.4 226.06) (uuid 10c615a9-740a-4275-80ea-5c30d30a2e87))
+  (no_connect (at 1041.4 210.82) (uuid 10c615a9-740a-4275-80ea-5c30d30a2e87))
+  (no_connect (at 1041.4 213.36) (uuid 10c615a9-740a-4275-80ea-5c30d30a2e87))
   (no_connect (at 805.18 88.9) (uuid 2a1cc43b-f2b6-47c7-9425-573a57a53409))
   (no_connect (at 977.9 218.44) (uuid 3b85b9da-2092-4631-ba12-5e03bc62d774))
   (no_connect (at 805.18 86.36) (uuid 4a761c41-9aab-4bc6-840e-f1e1ab796fa4))
@@ -20364,7 +20370,7 @@
   (symbol (lib_id "Connector_Generic_MountingPin:Conn_01x20_MountingPin") (at 1046.48 213.36 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5d4abbda-5eb9-4252-8b81-6d8b129f6640)
-    (property "Reference" "J?" (id 0) (at 1049.02 213.7155 0)
+    (property "Reference" "J203" (id 0) (at 1049.02 213.7155 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "LCDCON" (id 1) (at 1049.02 216.2555 0)
@@ -34260,7 +34266,7 @@
       (reference "J202") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
     )
     (path "/5d4abbda-5eb9-4252-8b81-6d8b129f6640"
-      (reference "J?") (unit 1) (value "LCDCON") (footprint "")
+      (reference "J203") (unit 1) (value "LCDCON") (footprint "")
     )
     (path "/aae70d50-3337-40f4-ab17-448d1c76b47a"
       (reference "L1") (unit 1) (value "L_Core_Ferrite") (footprint "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
