@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "via_dangling|154800000|97700000|21e7d7d1-a06e-4d51-a685-d064c5cd1aeb|00000000-0000-0000-0000-000000000000",
+        "via_dangling|154900000|96200000|933e0ae6-1058-4272-aec4-51bdcde0538e|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -85,7 +88,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
