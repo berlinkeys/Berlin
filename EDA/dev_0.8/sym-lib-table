@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "2022-03-27_15-42-26")(type "Legacy")(uri "${KIPRJMOD}/../ressources/ws2811/2022-03-27_15-42-26.lib")(options "")(descr ""))
+  (lib (name "2021-09-10_10-17-26")(type "Legacy")(uri "${KIPRJMOD}/../ressources/stlink/2021-09-10_10-17-26.lib")(options "")(descr ""))
+  (lib (name "2021-09-09_19-40-16")(type "Legacy")(uri "${KIPRJMOD}/../ressources/keys/2021-09-09_19-40-16.lib")(options "")(descr ""))
+  (lib (name "2022-03-27_15-42-261")(type "KiCad")(uri "${KIPRJMOD}/../ressources/ws2811/2022-03-27_15-42-26.kicad_sym")(options "")(descr ""))
+)
