@@ -1,8 +1,8 @@
 (footprint "SK6812MINI_3535_6028_3.2x2.8mm_Round" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62A4494F)
+  (tedit 62A482F6)
   (attr smd)
-  (fp_text reference "LED4,10" (at 0 3.048 -180) (layer "B.SilkS")
+  (fp_text reference "LED**REF" (at 0 3.048 -180) (layer "B.SilkS")
     (effects (font (size 0.635 0.635) (thickness 0.127)) (justify mirror))
     (tstamp 211441b5-67c6-4987-960e-a722553a1909)
   )
@@ -53,7 +53,7 @@
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
-  (gr_arc (start 0.348406 0.36956) (mid 0.459186 -0.007001) (end 0.635816 -0.357532) (width 0.04))
+  (gr_arc (start 0.348406 0.36956) (mid 0.45849 -0.005238) (end 0.633815 -0.354313) (width 0.04))
       (gr_line (start 0.345871 0.382541) (end -0.525 0.38) (width 0.04))
       (gr_line (start -0.525 -0.38) (end -0.525 0.38) (width 0.04))
       (gr_poly (pts
@@ -69,7 +69,7 @@
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
-  (gr_arc (start 0.641866 0.367193) (mid 0.462692 0.015818) (end 0.349891 -0.362128) (width 0.04))
+  (gr_arc (start 0.641866 0.367193) (mid 0.463397 0.017577) (end 0.350644 -0.358414) (width 0.04))
       (gr_line (start 0.345871 -0.382541) (end -0.525 -0.38) (width 0.04))
       (gr_line (start -0.525 0.38) (end -0.525 -0.38) (width 0.04))
       (gr_poly (pts
@@ -94,7 +94,7 @@
           (xy 0.55 -0.4)
         ) (width 0.04) (fill yes))
           (gr_line (start -0.2 -0.4) (end 0.575 -0.399979) (width 0.05))
-  (gr_arc (start 0.276411 0.392062) (mid 0.384585 -0.004112) (end 0.561206 -0.374869) (width 0.05))
+  (gr_arc (start 0.276411 0.392062) (mid 0.384585 -0.004112) (end 0.561205 -0.374868) (width 0.05))
   (gr_arc (start -0.2 0.4) (mid -0.6 0) (end -0.2 -0.4) (width 0.05))
           (gr_circle (center -0.2 0) (end 0 0) (width 0.4))
           (gr_line (start -0.2 0.4) (end 0.275 0.4) (width 0.05))
@@ -103,7 +103,7 @@
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
-  (gr_arc (start 0.641866 0.367193) (mid 0.462692 0.015818) (end 0.349891 -0.362128) (width 0.04))
+  (gr_arc (start 0.641866 0.367193) (mid 0.463397 0.017577) (end 0.350644 -0.358414) (width 0.04))
       (gr_line (start 0.345871 -0.382541) (end -0.525 -0.38) (width 0.04))
       (gr_line (start -0.525 0.38) (end -0.525 -0.38) (width 0.04))
       (gr_poly (pts
@@ -115,9 +115,9 @@
         ) (width 0.04) (fill yes))
           (gr_line (start 0.65 0.38) (end -0.525 0.38) (width 0.04))
     ) (tstamp 974e1c3a-d634-4bc2-bdcf-50e2b58124cb))
-  (model "${KIPRJMOD}/AcheronLibrary/3d_models/6028SMDRGB.iges"
-    (offset (xyz 0 0 0))
+  (model ":acheron:6028SMDRGB.iges"
+    (offset (xyz 0 0 -1.75))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 -90))
+    (rotate (xyz 0 0 90))
   )
 )

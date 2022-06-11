@@ -1,6 +1,6 @@
 (footprint "RotaryEncoder_Switch_RGB" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6240A067)
+  (tedit 62A48F8D)
   (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
   (tags "rotary encoder")
   (attr through_hole)
@@ -51,9 +51,9 @@
   (pad "MP" thru_hole rect (at 7.5 10.1) (size 4 3) (drill 3) (layers *.Cu *.Mask) (tstamp 7aed3a71-054b-4aaa-9c0a-030523c32827))
   (pad "R" thru_hole circle (at 14.5 6.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp a7531a95-7ca1-4f34-955e-18120cec99e6))
   (pad "SW" thru_hole circle (at 14.5 2.5) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 2891767f-251c-48c4-91c0-deb1b368f45c))
-  (model "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+  (model "W:/projects/Berlin/EDA/ressources/acheron_3d_models/EC12PSD-LED.wrl"
+    (offset (xyz 7.4 -2.5 10.5))
+    (scale (xyz 0.375 0.4 0.4))
+    (rotate (xyz 0 0 90))
   )
 )
