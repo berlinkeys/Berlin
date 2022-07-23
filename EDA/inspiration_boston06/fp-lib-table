@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "acheronComponents")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "acheronConnectors")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "acheronHardware")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/acheron_Hardware.pretty")(options "")(descr ""))
+  (lib (name "acheronLogos")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/acheron_Logos.pretty")(options "")(descr ""))
+  (lib (name "acheronMountingHoles")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/acheron_MountingHoles.pretty")(options "")(descr ""))
+  (lib (name "acheronSwitchSlots")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/acheron_SwitchSlots.pretty")(options "")(descr ""))
+  (lib (name "acheron_MX")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/acheron_MX.pretty")(options "")(descr ""))
+  (lib (name "SumidaInductor")(type "KiCad")(uri "${ACHERONLIB}/Boston/Boston - Current design/PCB/V0.6/Sumida0624CDMCC.pretty")(options "")(descr ""))
+)
