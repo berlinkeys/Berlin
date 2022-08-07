@@ -8,16 +8,35 @@ import ctypes, wx
 
 
 # code to setup the wx input window 
-changed = 0
 
-def input(event):    
+def evaluate(net):
+    
+    board = pcbnew.GetBoard()
+    self = board
+    print("Attempting to '"+net+"' out all selected Pads, Vias and Traces...")
+    if not (self.GetNetsByName().__contains__(net)):      
+        ctypes.windll.user32.MessageBoxW(None, 'Board has no '+net+' net.', 'SkyNet', 16)
+
+    else:
+        for p in self.GetPads():
+            if p.IsSelected():
+                p.SetNet(self.GetNetsByName().__getitem__(net))
+                p.ClearSelected()
+        for t in self.GetTracks():
+            if t.IsSelected():
+                t.SetNet(self.GetNetsByName().__getitem__(net))
+                t.ClearSelected()
+                
+        ctypes.windll.user32.MessageBoxW(None, 'Operation complete.', 'SkyNet', 0)
+
+def input(event):  
+    eval = True
+    evaluate(textbox.GetValue())
     exit()
-    changed = 1
     return
     
 def exit(event=None):
-    frame.Hide()
-    changed = 2
+    #frame.Hide()
     return
 
 app = wx.App()
@@ -43,36 +62,18 @@ panel.SetSizer(sizer)
 
 # main function       
 def Renate():
-    board = pcbnew.GetBoard()
-    self = board
+
+    eval = False
 
     frame.Show()
-    app.MainLoop()
     
-    while changed == 0:    
-        if changed == 2:
-            changed=0
-            return
-        pass
-    
-    changed = 0
     net = textbox.GetValue()
+    if eval:
+        exit()
+        evaluate(net)
 
-    print("Attempting to '"+net+"' out all selected Pads, Vias and Traces...")
-    if not (self.GetNetsByName().__contains__(net)):      
-        ctypes.windll.user32.MessageBoxW(None, 'Board has no '+net+' net.', 'SkyNet', 16)
 
-    else:
-        for p in self.GetPads():
-            if p.IsSelected():
-                p.SetNet(self.GetNetsByName().__getitem__(net))
-                p.ClearSelected()
-        for t in self.GetTracks():
-            if t.IsSelected():
-                t.SetNet(self.GetNetsByName().__getitem__(net))
-                t.ClearSelected()
-                
-        ctypes.windll.user32.MessageBoxW(None, 'Operation complete.', 'SkyNet', 0)
+    
 
 class SimplePlugin(pcbnew.ActionPlugin):
     def defaults(self):
