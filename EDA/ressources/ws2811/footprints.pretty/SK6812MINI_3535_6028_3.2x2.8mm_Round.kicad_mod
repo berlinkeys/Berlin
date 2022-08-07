@@ -14,7 +14,7 @@
     (effects (font (size 0.5 0.5) (thickness 0.125)) (justify mirror))
     (tstamp 200aaf98-02df-4b77-8d34-495f97001230)
   )
-  (fp_text user "5V" (at -3.8 0.8 -180) (layer "B.Fab")
+  (fp_text user "DIN" (at -3.8 0.8 -180) (layer "B.Fab")
     (effects (font (size 0.5 0.5) (thickness 0.125)) (justify mirror))
     (tstamp 23ef1da8-d500-42c3-9058-8603804f91f0)
   )
@@ -26,7 +26,7 @@
     (effects (font (size 0.5 0.5) (thickness 0.125)) (justify mirror))
     (tstamp a5fb2cde-1eda-4b34-a266-eb5e79dc5cee)
   )
-  (fp_text user "DIN" (at 3.8 0.85 -180) (layer "B.Fab")
+  (fp_text user "5V" (at 3.8 0.85 -180) (layer "B.Fab")
     (effects (font (size 0.5 0.5) (thickness 0.125)) (justify mirror))
     (tstamp ca005765-5f06-486b-8634-8cc12a55f019)
   )
@@ -53,7 +53,7 @@
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
-  (gr_arc (start 0.348406 0.36956) (mid 0.45849 -0.005238) (end 0.633815 -0.354313) (width 0.04))
+  (gr_arc (start 0.348406 0.36956) (mid 0.457795 -0.003473) (end 0.631818 -0.351088) (width 0.04))
       (gr_line (start 0.345871 0.382541) (end -0.525 0.38) (width 0.04))
       (gr_line (start -0.525 -0.38) (end -0.525 0.38) (width 0.04))
       (gr_poly (pts
@@ -69,7 +69,7 @@
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
-  (gr_arc (start 0.641866 0.367193) (mid 0.463397 0.017577) (end 0.350644 -0.358414) (width 0.04))
+  (gr_arc (start 0.641866 0.367193) (mid 0.464815 0.021096) (end 0.352175 -0.350982) (width 0.04))
       (gr_line (start 0.345871 -0.382541) (end -0.525 -0.38) (width 0.04))
       (gr_line (start -0.525 0.38) (end -0.525 -0.38) (width 0.04))
       (gr_poly (pts
@@ -94,7 +94,7 @@
           (xy 0.55 -0.4)
         ) (width 0.04) (fill yes))
           (gr_line (start -0.2 -0.4) (end 0.575 -0.399979) (width 0.05))
-  (gr_arc (start 0.276411 0.392062) (mid 0.384585 -0.004112) (end 0.561205 -0.374868) (width 0.05))
+  (gr_arc (start 0.276411 0.392062) (mid 0.383185 -0.000333) (end 0.557118 -0.367923) (width 0.05))
   (gr_arc (start -0.2 0.4) (mid -0.6 0) (end -0.2 -0.4) (width 0.05))
           (gr_circle (center -0.2 0) (end 0 0) (width 0.4))
           (gr_line (start -0.2 0.4) (end 0.275 0.4) (width 0.05))
@@ -103,7 +103,7 @@
     (zone_connect 0)
     (options (clearance outline) (anchor circle))
     (primitives
-  (gr_arc (start 0.641866 0.367193) (mid 0.463397 0.017577) (end 0.350644 -0.358414) (width 0.04))
+  (gr_arc (start 0.641866 0.367193) (mid 0.464815 0.021096) (end 0.352175 -0.350982) (width 0.04))
       (gr_line (start 0.345871 -0.382541) (end -0.525 -0.38) (width 0.04))
       (gr_line (start -0.525 0.38) (end -0.525 -0.38) (width 0.04))
       (gr_poly (pts
@@ -115,7 +115,7 @@
         ) (width 0.04) (fill yes))
           (gr_line (start 0.65 0.38) (end -0.525 0.38) (width 0.04))
     ) (tstamp 974e1c3a-d634-4bc2-bdcf-50e2b58124cb))
-  (model ":acheron:6028SMDRGB.iges"
+  (model "${KIPRJMOD}/../ressources/acheron_3d_models/6028SMDRGB.iges"
     (offset (xyz 0 0 -1.75))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
