@@ -2,5 +2,5 @@
 
 (rule "Pad_ign"
 	(layer outer)
-	(constraint clearance (min 0mm))
+	(constraint clearance (min 0.127mm))
 	(condition "A.Type == 'Pad' && B.Type == 'Pad'"))
