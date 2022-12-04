@@ -23459,7 +23459,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 727c9f2c-fe54-4298-8fe0-c9712a761bcd)
   )
-  (text "Hole for grounding\nalu case" (at 1158.875 58.42 180)
+  (text "Hole for grounding\nmetallic device enclosure\n" (at 1163.32 59.69 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 72fa7b2b-8da6-4e09-8d9f-34a9206b625a)
   )
