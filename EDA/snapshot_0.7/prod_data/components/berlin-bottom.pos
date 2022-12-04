@@ -1,4 +1,4 @@
-### Module positions - created on Sat Dec  3 16:53:45 2022 ###
+### Module positions - created on Sun Dec  4 21:40:37 2022 ###
 ### Printed by Pcbnew version (6.0.0-rc1-458-g78ff9a857a)
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -67,7 +67,7 @@ D36       1N4148                                   D_SOD-123                    
 D37       1N4148                                   D_SOD-123                                         -137.9220  -149.0980  -90.0000  bottom
 D38       1N4148                                   D_SOD-123                                         -142.7480  -168.4020  -90.0000  bottom
 D39       1N4148                                   D_SOD-123                                         -133.0960  -187.1980  -90.0000  bottom
-D40       1N4148                                   D_SOD-123                                         -154.1780  -206.2480  -90.0000  bottom
+D40       1N4148                                   D_SOD-123                                         -106.8000  -206.5000  -90.0000  bottom
 D41       1N4148                                   D_SOD-123                                         -171.4500   -81.9150  -90.0000  bottom
 D42       1N4148                                   D_SOD-123                                         -171.4500  -100.9650  -90.0000  bottom
 D43       1N4148                                   D_SOD-123                                         -147.3200  -130.0480  -90.0000  bottom
@@ -139,7 +139,7 @@ D109      1N4148                                   D_SOD-123                    
 D110      1N4148                                   D_SOD-123                                         -385.5720  -149.0980  -90.0000  bottom
 D111      1N4148                                   D_SOD-123                                         -385.5720  -168.1480  -90.0000  bottom
 D112      1N4148                                   D_SOD-123                                         -385.5720  -187.4520  -90.0000  bottom
-D113      1N4148                                   D_SOD-123                                         -385.8260  -208.5340  -90.0000  bottom
+D113      1N4148                                   D_SOD-123                                         -385.9000  -206.0000  -90.0000  bottom
 D114      1N4148                                   D_SOD-123                                         -456.6920  -147.5740  180.0000  bottom
 D115      1N4148                                   D_SOD-123                                         -402.8948  -132.3086  -90.0000  bottom
 D116      1N4148                                   D_SOD-123                                         -404.6220  -149.0980  -90.0000  bottom
@@ -151,6 +151,11 @@ D121      1N4148                                   D_SOD-123                    
 D122      1N4148                                   D_SOD-123                                         -423.6720  -149.0980  -90.0000  bottom
 D123      1N4148                                   D_SOD-123                                         -423.6720  -168.1480  -90.0000  bottom
 D124      1N4148                                   D_SOD-123                                         -423.6720  -187.4520  -90.0000  bottom
+D125      1N4148                                   D_SOD-123                                         -132.9000  -205.0000  -90.0000  bottom
+D126      1N4148                                   D_SOD-123                                         -154.1500  -204.9500  -90.0000  bottom
+D127      1N4148                                   D_SOD-123                                         -190.0500  -204.9500  -90.0000  bottom
+D128      1N4148                                   D_SOD-123                                         -323.5902  -187.2095  -90.0000  bottom
+D129      1N4148                                   D_SOD-123                                         -361.6902  -187.1845  -90.0000  bottom
 D701      RB060M-60TR                              D_SOD-123                                         -137.6680   -77.9780  180.0000  bottom
 D703      1N4148                                   D_SOD-123                                         -235.1000   -89.8000    0.0000  bottom
 F701      1.5A_Polyfuse                            Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder    -140.4620   -73.4060   90.0000  bottom
@@ -283,14 +288,19 @@ SW6,10    MXSwitch                                 MX100H                       
 SW6,11    MXSwitch                                 MX100H                                            -236.5057  -193.7067  180.0000  bottom
 SW6,12    MXSwitch                                 MX100H                                            -284.1307  -174.6567  180.0000  bottom
 SW6,13    MXSwitch                                 MX_ISOEnterH                                      -305.5620  -165.1317  180.0000  bottom
+SW6,14    MXSwitch                                 MX100H                                            -331.7600  -193.7400  180.0000  bottom
 SW6,15    MXSwitch                                 MX100H                                            -350.8057  -193.7385  180.0000  bottom
+SW6,16    MXSwitch                                 MX100H                                            -369.8500  -193.7250  180.0000  bottom
 SW6,17    MXSwitch                                 MX100H                                            -393.6683  -193.7385  180.0000  bottom
 SW6,18    MXSwitch                                 MX100H                                            -412.7182  -193.7385  180.0000  bottom
 SW6,19    MXSwitch                                 MX100H                                            -431.7682  -193.7385  180.0000  bottom
 SW7,1     MXSwitch                                 MX125H                                             -43.6245  -212.7567  180.0000  bottom
 SW7,2     MXSwitch                                 MX125H                                             -67.4370  -212.7567  180.0000  bottom
 SW7,3     MXSwitch                                 MX125H                                             -91.2495  -212.7567  180.0000  bottom
+SW7,4     MXSwitch                                 MX100H                                            -122.2000  -212.7500  180.0000  bottom
+SW7,5     MXSwitch                                 MX100H                                            -141.2600  -212.7400  180.0000  bottom
 SW7,6     MXSwitch                                 MX625H                                            -162.6870  -212.7567  180.0000  bottom
+SW7,7     MXSwitch                                 MX100H                                            -198.4000  -212.7500  180.0000  bottom
 SW7,8     MXSwitch                                 MX125H                                            -234.1245  -212.7567  180.0000  bottom
 SW7,9     MXSwitch                                 MX125H                                            -257.9370  -212.7567  180.0000  bottom
 SW7,10    MXSwitch                                 MX125H                                            -281.7495  -212.7567  180.0000  bottom

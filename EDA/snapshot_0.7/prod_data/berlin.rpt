@@ -1,4 +1,4 @@
-## Footprint report - date Sat Dec  3 16:50:37 2022
+## Footprint report - date Sun Dec  4 21:41:25 2022
 ## Created by Pcbnew version (6.0.0-rc1-458-g78ff9a857a)
 ## Unit = mm, Angle = deg.
 
@@ -1228,7 +1228,7 @@ $EndMODULE  D39
 $MODULE D40
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 154.178000 206.248000  orientation -90.00
+position 106.800000 206.500000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2596,7 +2596,7 @@ $EndMODULE  D112
 $MODULE D113
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 385.826000 208.534000  orientation -90.00
+position 385.900000 206.000000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2820,6 +2820,101 @@ drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  D124
+
+$MODULE D125
+footprint acheron_Components:D_SOD-123
+attribut smd
+position 132.900000 205.000000  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D125
+
+$MODULE D126
+footprint acheron_Components:D_SOD-123
+attribut smd
+position 154.150000 204.950000  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D126
+
+$MODULE D127
+footprint acheron_Components:D_SOD-123
+attribut smd
+position 190.050000 204.950000  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D127
+
+$MODULE D128
+footprint acheron_Components:D_SOD-123
+attribut smd
+position 323.590250 187.209500  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D128
+
+$MODULE D129
+footprint acheron_Components:D_SOD-123
+attribut smd
+position 361.690250 187.184500  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  1.000000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D129
 
 $MODULE D701
 footprint acheron_Components:D_SOD-123
@@ -3311,6 +3406,44 @@ drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  J203
+
+$MODULE JMP6,14
+footprint Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
+attribut virtual
+position 339.350000 200.000000  orientation 180.00
+layer back
+$PAD "1"
+Shape Rect Layer back
+position -0.650000  0.000000  size  1.000000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  0.650000  0.000000  size  1.000000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JMP6,14
+
+$MODULE JMP6,16
+footprint Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
+attribut virtual
+position 373.500000 202.350000  orientation 0.00
+layer back
+$PAD "1"
+Shape Rect Layer back
+position -0.650000  0.000000  size  1.000000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  0.650000  0.000000  size  1.000000  1.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JMP6,16
 
 $MODULE L1
 footprint Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder
@@ -4038,7 +4171,7 @@ $EndMODULE  LED1,16
 $MODULE LED2,1
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 41.275000 113.030000  orientation 180.00
+position 41.100000 113.650000  orientation 180.00
 layer front
 $PAD ""
 Shape Circle Layer both
@@ -7328,6 +7461,43 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  LED6,13
 
+$MODULE LED6,14
+footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
+attribut smd
+position 331.450000 199.200000  orientation 180.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
+drill  4.250000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape CustomShape Layer back
+position  2.667000  0.800000  size  0.500000  0.500000  orientation -180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape CustomShape Layer back
+position  2.641600 -0.800000  size  0.500000  0.500000  orientation -180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape CustomShape Layer back
+position -2.565400 -0.800000  size  0.500000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape CustomShape Layer back
+position -2.641600  0.800000  size  0.500000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  LED6,14
+
 $MODULE LED6,15
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
@@ -7364,6 +7534,43 @@ drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  LED6,15
+
+$MODULE LED6,16
+footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
+attribut smd
+position 369.875000 198.925000  orientation 180.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
+drill  4.250000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape CustomShape Layer back
+position  2.667000  0.800000  size  0.500000  0.500000  orientation -180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape CustomShape Layer back
+position  2.641600 -0.800000  size  0.500000  0.500000  orientation -180.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape CustomShape Layer back
+position -2.565400 -0.800000  size  0.500000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape CustomShape Layer back
+position -2.641600  0.800000  size  0.500000  0.500000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  LED6,16
 
 $MODULE LED6,17
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
@@ -13500,8 +13707,8 @@ position 122.205750 193.706750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
-position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
-drill  3.987800
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD ""
@@ -13512,14 +13719,14 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $PAD ""
 Shape Circle Layer both
-position  3.810000  2.540000  size  3.600000  3.600000  orientation 0.00
-drill  3.048000
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD ""
 Shape Circle Layer both
-position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
-drill  1.701800
+position  3.810000  2.540000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD ""
@@ -13958,11 +14165,66 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  SW6,13
 
+$MODULE SW6,14
+footprint acheron:MX100H
+attribut smd
+position 331.760000 193.740000  orientation 180.00
+layer back
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -6.096000  5.080000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  7.366000  2.540000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW6,14
+
 $MODULE SW6,15
 footprint acheron:MX100H
 attribut smd
 position 350.805750 193.738500  orientation 180.00
 layer back
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
 $PAD ""
 Shape Circle Layer both
 position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
@@ -13979,12 +14241,6 @@ $PAD ""
 Shape Circle Layer both
 position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
 drill  1.701800
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD ""
-Shape Circle Layer both
-position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
-drill  3.987800
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD ""
@@ -14006,6 +14262,55 @@ drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  SW6,15
+
+$MODULE SW6,16
+footprint acheron:MX100H
+attribut smd
+position 369.850000 193.725000  orientation 180.00
+layer back
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -6.096000  5.080000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  7.366000  2.540000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW6,16
 
 $MODULE SW6,17
 footprint acheron:MX100H
@@ -14301,6 +14606,104 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  SW7,3
 
+$MODULE SW7,4
+footprint acheron:MX100H
+attribut smd
+position 122.200000 212.750000  orientation 180.00
+layer back
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -6.096000  5.080000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  7.366000  2.540000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW7,4
+
+$MODULE SW7,5
+footprint acheron:MX100H
+attribut smd
+position 141.260000 212.740000  orientation 180.00
+layer back
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -6.096000  5.080000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  7.366000  2.540000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW7,5
+
 $MODULE SW7,6
 footprint acheron_MXH:MX625H
 attribut smd
@@ -14373,6 +14776,55 @@ drill  0.000000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  SW7,6
+
+$MODULE SW7,7
+footprint acheron:MX100H
+attribut smd
+position 198.400000 212.750000  orientation 180.00
+layer back
+$PAD ""
+Shape Circle Layer both
+position  3.810000  2.540000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.701800  1.701800  orientation 0.00
+drill  1.701800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -2.540000  5.080000  size  3.600000  3.600000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -6.096000  5.080000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  7.366000  2.540000  size  2.540000  2.540000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW7,7
 
 $MODULE SW7,8
 footprint acheron_MXH:MX125H

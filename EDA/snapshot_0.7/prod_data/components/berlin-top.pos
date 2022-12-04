@@ -1,4 +1,4 @@
-### Module positions - created on Sat Dec  3 16:53:45 2022 ###
+### Module positions - created on Sun Dec  4 21:40:37 2022 ###
 ### Printed by Pcbnew version (6.0.0-rc1-458-g78ff9a857a)
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -22,7 +22,7 @@ LED1,12   WS2812B                                    SK6812MINI_3535_6028_3.2x2.
 LED1,13   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        307.9375   -93.9655    0.0000  top
 LED1,14   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        331.8135   -74.9155    0.0000  top
 LED1,15   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        350.8635   -74.9155    0.0000  top
-LED2,1    WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round         41.2750  -113.0300  180.0000  top
+LED2,1    WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round         41.1000  -113.6500  180.0000  top
 LED2,2    WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round         69.8125  -113.0155  180.0000  top
 LED2,3    WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round         88.8625  -113.0155  180.0000  top
 LED2,4    WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        107.9125  -113.0155  180.0000  top
@@ -111,7 +111,9 @@ LED6,10   WS2812B                                    SK6812MINI_3535_6028_3.2x2.
 LED6,11   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        236.5635  -198.7405  180.0000  top
 LED6,12   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        284.1885  -179.6905  180.0000  top
 LED6,13   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        305.5620  -170.6735  180.0000  top
+LED6,14   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        331.4500  -199.2000  180.0000  top
 LED6,15   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        350.7800  -198.8200  180.0000  top
+LED6,16   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        369.8750  -198.9250  180.0000  top
 LED6,17   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        393.7600  -198.8200  180.0000  top
 LED6,18   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        412.8100  -198.8200  180.0000  top
 LED6,19   WS2812B                                    SK6812MINI_3535_6028_3.2x2.8mm_Round        431.7625  -198.7405  180.0000  top
