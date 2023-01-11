@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0-rc1-458-g78ff9a857a)"
     },
-    "CreationDate": "2022-12-04T21:38:44+01:00"
+    "CreationDate": "2023-01-11T22:18:51+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "berlin",
       "GUID": "6265726c-696e-42e6-9b69-6361645f7063",
-      "Revision": "rev?"
+      "Revision": "0.7"
     },
     "Size": {
       "X": 432.296,
