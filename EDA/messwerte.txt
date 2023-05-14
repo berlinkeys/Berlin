@@ -1,0 +1,15 @@
+led rotary encoder:
+5V eingang mit vorwiderstand 680 Ohm
+V_fr = 1.82V
+V_fg = 2.68V
+V_fb = 2.71V
+
+10mA==> 
+R_R ~ 318 Ohm
+R_G ~ 232 Ohm
+R_B ~ 229 Ohm
+
+ws2811 intern ~> 200 Ohm
+--> R_R = 150Ohm, R_IC = 150Ohm 
+I=40mA
+I_Neopixel = 34mA

@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "1")(type "KiCad")(uri "${KIPRJMOD}/../ressources/keys/footprints.pretty")(options "")(descr ""))
+  (lib (name "2")(type "KiCad")(uri "${KIPRJMOD}/../ressources/stlink/footprints.pretty")(options "")(descr ""))
+  (lib (name "3")(type "KiCad")(uri "${KIPRJMOD}/../ressources/ws2811/footprints.pretty")(options "")(descr ""))
+  (lib (name "acheron_Components")(type "KiCad")(uri "W:/projects/AlexandriaLibrary-master/footprints/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "4")(type "KiCad")(uri "${KIPRJMOD}/../ressources/ul_SN74LVC1T45DCKR/footprints.pretty")(options "")(descr ""))
+  (lib (name "acheron")(type "KiCad")(uri "${KIPRJMOD}/../ressources/acheron.pretty")(options "")(descr ""))
+)
