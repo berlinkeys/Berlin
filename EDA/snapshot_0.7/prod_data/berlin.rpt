@@ -1,18 +1,18 @@
-## Footprint report - date Sun Dec  4 21:41:25 2022
-## Created by Pcbnew version (6.0.0-rc1-458-g78ff9a857a)
+## Footprint report - date Sat Mar 18 22:23:37 2023
+## Created by KiCad version 7.0.1
 ## Unit = mm, Angle = deg.
 
 $BeginDESCRIPTION
 
 $BOARD
-upper_left_corner 27.901191 48.820000
-lower_right_corner 473.725000 225.530000
+upper_left_corner 26.765000 25.295000
+lower_right_corner 476.200000 227.365000
 $EndBOARD
 
 $MODULE C101
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 53.213000 86.614000  orientation 180.00
+position 55.688000 63.089000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -31,7 +31,7 @@ $EndMODULE  C101
 $MODULE C102
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 389.128000 73.152000  orientation 0.00
+position 391.603000 49.627000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -50,7 +50,7 @@ $EndMODULE  C102
 $MODULE C701
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 137.922000 82.550000  orientation 180.00
+position 140.397000 59.025000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -69,7 +69,7 @@ $EndMODULE  C701
 $MODULE C703
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 135.509000 96.266000  orientation -90.00
+position 137.984000 72.741000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -88,7 +88,7 @@ $EndMODULE  C703
 $MODULE C704
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 144.780000 93.051000  orientation 0.00
+position 147.255000 69.526000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -107,7 +107,7 @@ $EndMODULE  C704
 $MODULE C705
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 144.780000 90.551000  orientation 0.00
+position 147.255000 67.026000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -126,7 +126,7 @@ $EndMODULE  C705
 $MODULE C706
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 248.180000 123.680000  orientation 90.00
+position 250.655000 100.155000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -145,7 +145,7 @@ $EndMODULE  C706
 $MODULE C707
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 245.720000 124.270000  orientation 90.00
+position 248.195000 100.745000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -164,7 +164,7 @@ $EndMODULE  C707
 $MODULE C708
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 226.568000 126.796800  orientation -90.00
+position 229.043000 103.271800  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -183,7 +183,7 @@ $EndMODULE  C708
 $MODULE C709
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 225.501200 109.067600  orientation 180.00
+position 227.976200 85.542600  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -202,7 +202,7 @@ $EndMODULE  C709
 $MODULE C710
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 239.903000 106.476800  orientation 180.00
+position 242.378000 82.951800  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -221,7 +221,7 @@ $EndMODULE  C710
 $MODULE C711
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 241.400000 89.850000  orientation -90.00
+position 243.875000 66.325000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -240,7 +240,7 @@ $EndMODULE  C711
 $MODULE C712
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 59.004000 124.050000  orientation 90.00
+position 61.479000 100.525000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -259,7 +259,7 @@ $EndMODULE  C712
 $MODULE C714
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 151.714200 108.381800  orientation 0.00
+position 154.189200 84.856800  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -278,7 +278,7 @@ $EndMODULE  C714
 $MODULE C715
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 235.800000 92.200000  orientation 0.00
+position 238.275000 68.675000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -297,7 +297,7 @@ $EndMODULE  C715
 $MODULE C717
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 144.780000 95.451000  orientation 0.00
+position 147.255000 71.926000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -316,7 +316,7 @@ $EndMODULE  C717
 $MODULE C718
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 226.500000 60.940000  orientation 180.00
+position 228.975000 37.415000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -335,7 +335,7 @@ $EndMODULE  C718
 $MODULE C719
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 227.000000 63.400000  orientation 180.00
+position 229.475000 39.875000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -354,7 +354,7 @@ $EndMODULE  C719
 $MODULE C720
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 318.900000 98.500000  orientation 0.00
+position 321.375000 74.975000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -373,7 +373,7 @@ $EndMODULE  C720
 $MODULE C721
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 318.510000 100.740000  orientation 0.00
+position 320.985000 77.215000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -392,7 +392,7 @@ $EndMODULE  C721
 $MODULE C722
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 373.580000 166.480000  orientation 180.00
+position 376.055000 142.955000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -411,7 +411,7 @@ $EndMODULE  C722
 $MODULE C723
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 374.170000 168.940000  orientation 180.00
+position 376.645000 145.415000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -430,7 +430,7 @@ $EndMODULE  C723
 $MODULE C724
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 54.500000 108.800000  orientation 90.00
+position 56.975000 85.275000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -449,7 +449,7 @@ $EndMODULE  C724
 $MODULE C725
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 52.040000 109.390000  orientation 90.00
+position 54.515000 85.865000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -468,7 +468,7 @@ $EndMODULE  C725
 $MODULE C726
 footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 attribut smd
-position 57.800000 156.500000  orientation 90.00
+position 60.275000 132.975000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -487,7 +487,7 @@ $EndMODULE  C726
 $MODULE C727
 footprint Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 attribut smd
-position 55.340000 157.090000  orientation 90.00
+position 57.815000 133.565000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -506,7 +506,7 @@ $EndMODULE  C727
 $MODULE D2
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 35.433000 99.314000  orientation 180.00
+position 37.908000 75.789000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -525,7 +525,7 @@ $EndMODULE  D2
 $MODULE D3
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 46.100000 128.300000  orientation 180.00
+position 48.575000 104.775000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -544,7 +544,7 @@ $EndMODULE  D3
 $MODULE D4
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 37.592000 149.098000  orientation -90.00
+position 40.067000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -563,7 +563,7 @@ $EndMODULE  D4
 $MODULE D5
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 40.132000 167.894000  orientation -90.00
+position 42.607000 144.369000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -582,7 +582,7 @@ $EndMODULE  D5
 $MODULE D6
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 35.306000 187.198000  orientation -90.00
+position 37.781000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -601,7 +601,7 @@ $EndMODULE  D6
 $MODULE D7
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 35.306000 206.248000  orientation -90.00
+position 37.781000 182.723000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -620,7 +620,7 @@ $EndMODULE  D7
 $MODULE D8
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 61.595000 81.915000  orientation -90.00
+position 64.070000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -639,7 +639,7 @@ $EndMODULE  D8
 $MODULE D9
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 61.595000 100.965000  orientation -90.00
+position 64.070000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -658,7 +658,7 @@ $EndMODULE  D9
 $MODULE D10
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 52.070000 130.048000  orientation -90.00
+position 54.545000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -677,7 +677,7 @@ $EndMODULE  D10
 $MODULE D11
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 61.722000 149.098000  orientation -90.00
+position 64.197000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -696,7 +696,7 @@ $EndMODULE  D11
 $MODULE D12
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 66.548000 168.148000  orientation -90.00
+position 69.023000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -715,7 +715,7 @@ $EndMODULE  D12
 $MODULE D13
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 56.896000 187.198000  orientation -90.00
+position 59.371000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -734,7 +734,7 @@ $EndMODULE  D13
 $MODULE D14
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 59.182000 206.502000  orientation -90.00
+position 61.657000 182.977000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -753,7 +753,7 @@ $EndMODULE  D14
 $MODULE D15
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 80.645000 81.915000  orientation -90.00
+position 83.120000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -772,7 +772,7 @@ $EndMODULE  D15
 $MODULE D16
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 80.645000 100.965000  orientation -90.00
+position 83.120000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -791,7 +791,7 @@ $EndMODULE  D16
 $MODULE D17
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 71.120000 130.048000  orientation -90.00
+position 73.595000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -810,7 +810,7 @@ $EndMODULE  D17
 $MODULE D18
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 80.772000 149.098000  orientation -90.00
+position 83.247000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -829,7 +829,7 @@ $EndMODULE  D18
 $MODULE D19
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 85.598000 168.148000  orientation -90.00
+position 88.073000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -848,7 +848,7 @@ $EndMODULE  D19
 $MODULE D20
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 75.946000 187.198000  orientation -90.00
+position 78.421000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -867,7 +867,7 @@ $EndMODULE  D20
 $MODULE D21
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 82.804000 206.502000  orientation -90.00
+position 85.279000 182.977000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -886,7 +886,7 @@ $EndMODULE  D21
 $MODULE D22
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 99.695000 81.915000  orientation -90.00
+position 102.170000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -905,7 +905,7 @@ $EndMODULE  D22
 $MODULE D23
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 99.695000 100.965000  orientation -90.00
+position 102.170000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -924,7 +924,7 @@ $EndMODULE  D23
 $MODULE D24
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 90.170000 130.048000  orientation -90.00
+position 92.645000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -943,7 +943,7 @@ $EndMODULE  D24
 $MODULE D25
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 99.822000 149.098000  orientation -90.00
+position 102.297000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -962,7 +962,7 @@ $EndMODULE  D25
 $MODULE D26
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 104.648000 168.148000  orientation -90.00
+position 107.123000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -981,7 +981,7 @@ $EndMODULE  D26
 $MODULE D27
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 94.996000 187.198000  orientation -90.00
+position 97.471000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1000,7 +1000,7 @@ $EndMODULE  D27
 $MODULE D28
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 118.745000 81.915000  orientation -90.00
+position 121.220000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1019,7 +1019,7 @@ $EndMODULE  D28
 $MODULE D29
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 118.745000 100.965000  orientation -90.00
+position 121.220000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1038,7 +1038,7 @@ $EndMODULE  D29
 $MODULE D30
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 109.220000 130.048000  orientation -90.00
+position 111.695000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1057,7 +1057,7 @@ $EndMODULE  D30
 $MODULE D31
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 118.872000 149.098000  orientation -90.00
+position 121.347000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1076,7 +1076,7 @@ $EndMODULE  D31
 $MODULE D32
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 123.698000 168.402000  orientation -90.00
+position 126.173000 144.877000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1095,7 +1095,7 @@ $EndMODULE  D32
 $MODULE D33
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 114.046000 187.198000  orientation -90.00
+position 116.521000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1114,7 +1114,7 @@ $EndMODULE  D33
 $MODULE D34
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 152.400000 81.900000  orientation -90.00
+position 154.875000 58.375000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1133,7 +1133,7 @@ $EndMODULE  D34
 $MODULE D35
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 152.400000 100.965000  orientation -90.00
+position 154.875000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1152,7 +1152,7 @@ $EndMODULE  D35
 $MODULE D36
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 128.270000 130.048000  orientation -90.00
+position 130.745000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1171,7 +1171,7 @@ $EndMODULE  D36
 $MODULE D37
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 137.922000 149.098000  orientation -90.00
+position 140.397000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1190,7 +1190,7 @@ $EndMODULE  D37
 $MODULE D38
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 142.748000 168.402000  orientation -90.00
+position 145.223000 144.877000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1209,7 +1209,7 @@ $EndMODULE  D38
 $MODULE D39
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 133.096000 187.198000  orientation -90.00
+position 135.571000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1228,7 +1228,7 @@ $EndMODULE  D39
 $MODULE D40
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 106.800000 206.500000  orientation -90.00
+position 109.275000 182.975000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1247,7 +1247,7 @@ $EndMODULE  D40
 $MODULE D41
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 171.450000 81.915000  orientation -90.00
+position 173.925000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1266,7 +1266,7 @@ $EndMODULE  D41
 $MODULE D42
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 171.450000 100.965000  orientation -90.00
+position 173.925000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1285,7 +1285,7 @@ $EndMODULE  D42
 $MODULE D43
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 147.320000 130.048000  orientation -90.00
+position 149.795000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1304,7 +1304,7 @@ $EndMODULE  D43
 $MODULE D44
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 156.972000 149.098000  orientation -90.00
+position 159.447000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1323,7 +1323,7 @@ $EndMODULE  D44
 $MODULE D45
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 161.798000 168.402000  orientation -90.00
+position 164.273000 144.877000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1342,7 +1342,7 @@ $EndMODULE  D45
 $MODULE D46
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 152.146000 187.198000  orientation -90.00
+position 154.621000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1361,7 +1361,7 @@ $EndMODULE  D46
 $MODULE D47
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 190.500000 81.915000  orientation -90.00
+position 192.975000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1380,7 +1380,7 @@ $EndMODULE  D47
 $MODULE D48
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 190.500000 100.965000  orientation -90.00
+position 192.975000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1399,7 +1399,7 @@ $EndMODULE  D48
 $MODULE D49
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 166.370000 130.048000  orientation -90.00
+position 168.845000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1418,7 +1418,7 @@ $EndMODULE  D49
 $MODULE D50
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 176.022000 149.098000  orientation -90.00
+position 178.497000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1437,7 +1437,7 @@ $EndMODULE  D50
 $MODULE D51
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 180.848000 168.402000  orientation -90.00
+position 183.323000 144.877000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1456,7 +1456,7 @@ $EndMODULE  D51
 $MODULE D52
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 171.196000 187.198000  orientation -90.00
+position 173.671000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1475,7 +1475,7 @@ $EndMODULE  D52
 $MODULE D53
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 225.552000 206.248000  orientation -90.00
+position 228.027000 182.723000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1494,7 +1494,7 @@ $EndMODULE  D53
 $MODULE D54
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 209.550000 81.915000  orientation -90.00
+position 212.025000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1513,7 +1513,7 @@ $EndMODULE  D54
 $MODULE D55
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 209.550000 100.965000  orientation -90.00
+position 212.025000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1532,7 +1532,7 @@ $EndMODULE  D55
 $MODULE D56
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 185.420000 130.048000  orientation -90.00
+position 187.895000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1551,7 +1551,7 @@ $EndMODULE  D56
 $MODULE D57
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 195.072000 149.098000  orientation -90.00
+position 197.547000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1570,7 +1570,7 @@ $EndMODULE  D57
 $MODULE D58
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 199.898000 168.148000  orientation -90.00
+position 202.373000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1589,7 +1589,7 @@ $EndMODULE  D58
 $MODULE D59
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 190.246000 187.198000  orientation -90.00
+position 192.721000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1608,7 +1608,7 @@ $EndMODULE  D59
 $MODULE D60
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 249.428000 206.248000  orientation -90.00
+position 251.903000 182.723000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1627,7 +1627,7 @@ $EndMODULE  D60
 $MODULE D61
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 242.570000 81.915000  orientation -90.00
+position 245.045000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1646,7 +1646,7 @@ $EndMODULE  D61
 $MODULE D62
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 242.570000 100.965000  orientation -90.00
+position 245.045000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1665,7 +1665,7 @@ $EndMODULE  D62
 $MODULE D63
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 204.470000 130.048000  orientation -90.00
+position 206.945000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1684,7 +1684,7 @@ $EndMODULE  D63
 $MODULE D64
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 214.122000 149.098000  orientation -90.00
+position 216.597000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1703,7 +1703,7 @@ $EndMODULE  D64
 $MODULE D65
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 218.948000 168.148000  orientation -90.00
+position 221.423000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1722,7 +1722,7 @@ $EndMODULE  D65
 $MODULE D66
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 209.296000 187.198000  orientation -90.00
+position 211.771000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1741,7 +1741,7 @@ $EndMODULE  D66
 $MODULE D67
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 273.304000 206.248000  orientation -90.00
+position 275.779000 182.723000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1760,7 +1760,7 @@ $EndMODULE  D67
 $MODULE D68
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 261.620000 81.915000  orientation -90.00
+position 264.095000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1779,7 +1779,7 @@ $EndMODULE  D68
 $MODULE D69
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 261.620000 100.965000  orientation -90.00
+position 264.095000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1798,7 +1798,7 @@ $EndMODULE  D69
 $MODULE D70
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 221.843600 131.826000  orientation -90.00
+position 224.318600 108.301000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1817,7 +1817,7 @@ $EndMODULE  D70
 $MODULE D71
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 233.172000 149.098000  orientation -90.00
+position 235.647000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1836,7 +1836,7 @@ $EndMODULE  D71
 $MODULE D72
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 237.998000 168.148000  orientation -90.00
+position 240.473000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1855,7 +1855,7 @@ $EndMODULE  D72
 $MODULE D73
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 228.346000 187.198000  orientation -90.00
+position 230.821000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1874,7 +1874,7 @@ $EndMODULE  D73
 $MODULE D74
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 297.180000 206.248000  orientation -90.00
+position 299.655000 182.723000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1893,7 +1893,7 @@ $EndMODULE  D74
 $MODULE D75
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 280.670000 81.915000  orientation -90.00
+position 283.145000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1912,7 +1912,7 @@ $EndMODULE  D75
 $MODULE D76
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 280.670000 100.965000  orientation -90.00
+position 283.145000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1931,7 +1931,7 @@ $EndMODULE  D76
 $MODULE D77
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 240.715800 132.994400  orientation -90.00
+position 243.190800 109.469400  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1950,7 +1950,7 @@ $EndMODULE  D77
 $MODULE D78
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 252.222000 149.098000  orientation -90.00
+position 254.697000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1969,7 +1969,7 @@ $EndMODULE  D78
 $MODULE D79
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 257.048000 168.148000  orientation -90.00
+position 259.523000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -1988,7 +1988,7 @@ $EndMODULE  D79
 $MODULE D80
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 276.098000 177.292000  orientation 90.00
+position 278.573000 153.767000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2007,7 +2007,7 @@ $EndMODULE  D80
 $MODULE D81
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 247.400000 195.640000  orientation 90.00
+position 249.875000 172.115000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2026,7 +2026,7 @@ $EndMODULE  D81
 $MODULE D82
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 299.720000 81.915000  orientation -90.00
+position 302.195000 58.390000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2045,7 +2045,7 @@ $EndMODULE  D82
 $MODULE D83
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 299.720000 100.965000  orientation -90.00
+position 302.195000 77.440000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2064,7 +2064,7 @@ $EndMODULE  D83
 $MODULE D84
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 259.765800 132.410200  orientation -90.00
+position 262.240800 108.885200  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2083,7 +2083,7 @@ $EndMODULE  D84
 $MODULE D85
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 295.675000 127.630000  orientation 180.00
+position 298.150000 104.105000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2102,7 +2102,7 @@ $EndMODULE  D85
 $MODULE D86
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 271.272000 157.480000  orientation 90.00
+position 273.747000 133.955000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2121,7 +2121,7 @@ $EndMODULE  D86
 $MODULE D87
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 292.440000 177.400000  orientation 90.00
+position 294.915000 153.875000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2140,7 +2140,7 @@ $EndMODULE  D87
 $MODULE D88
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 273.420000 196.530000  orientation 90.00
+position 275.895000 173.005000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2159,7 +2159,7 @@ $EndMODULE  D88
 $MODULE D89
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 323.596000 63.246000  orientation -90.00
+position 326.071000 39.721000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2178,7 +2178,7 @@ $EndMODULE  D89
 $MODULE D90
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 323.596000 82.296000  orientation -90.00
+position 326.071000 58.771000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2197,7 +2197,7 @@ $EndMODULE  D90
 $MODULE D91
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 323.596000 101.346000  orientation -90.00
+position 326.071000 77.821000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2216,7 +2216,7 @@ $EndMODULE  D91
 $MODULE D92
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 323.596000 130.048000  orientation -90.00
+position 326.071000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2235,7 +2235,7 @@ $EndMODULE  D92
 $MODULE D93
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 323.596000 148.844000  orientation -90.00
+position 326.071000 125.319000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2254,7 +2254,7 @@ $EndMODULE  D93
 $MODULE D94
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 323.596000 205.994000  orientation -90.00
+position 326.071000 182.469000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2273,7 +2273,7 @@ $EndMODULE  D94
 $MODULE D95
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 342.646000 63.246000  orientation -90.00
+position 345.121000 39.721000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2292,7 +2292,7 @@ $EndMODULE  D95
 $MODULE D96
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 342.646000 82.296000  orientation -90.00
+position 345.121000 58.771000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2311,7 +2311,7 @@ $EndMODULE  D96
 $MODULE D97
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 342.646000 101.346000  orientation -90.00
+position 345.121000 77.821000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2330,7 +2330,7 @@ $EndMODULE  D97
 $MODULE D98
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 342.646000 130.048000  orientation -90.00
+position 345.121000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2349,7 +2349,7 @@ $EndMODULE  D98
 $MODULE D99
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 342.646000 148.844000  orientation -90.00
+position 345.121000 125.319000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2368,7 +2368,7 @@ $EndMODULE  D99
 $MODULE D100
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 342.646000 187.198000  orientation -90.00
+position 345.121000 163.673000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2387,7 +2387,7 @@ $EndMODULE  D100
 $MODULE D101
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 342.646000 205.994000  orientation -90.00
+position 345.121000 182.469000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2406,7 +2406,7 @@ $EndMODULE  D101
 $MODULE D103
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 361.696000 82.296000  orientation -90.00
+position 364.171000 58.771000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2425,7 +2425,7 @@ $EndMODULE  D103
 $MODULE D104
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 361.696000 101.346000  orientation -90.00
+position 364.171000 77.821000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2444,7 +2444,7 @@ $EndMODULE  D104
 $MODULE D105
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 361.696000 130.048000  orientation -90.00
+position 364.171000 106.523000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2463,7 +2463,7 @@ $EndMODULE  D105
 $MODULE D106
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 361.696000 148.844000  orientation -90.00
+position 364.171000 125.319000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2482,7 +2482,7 @@ $EndMODULE  D106
 $MODULE D107
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 361.696000 205.994000  orientation -90.00
+position 364.171000 182.469000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2501,7 +2501,7 @@ $EndMODULE  D107
 $MODULE D108
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 441.858400 130.149600  orientation -90.00
+position 445.175000 106.675000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2520,7 +2520,7 @@ $EndMODULE  D108
 $MODULE D109
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 383.844800 133.096000  orientation -90.00
+position 386.319800 109.571000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2539,7 +2539,7 @@ $EndMODULE  D109
 $MODULE D110
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 385.572000 149.098000  orientation -90.00
+position 388.047000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2558,7 +2558,7 @@ $EndMODULE  D110
 $MODULE D111
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 385.572000 168.148000  orientation -90.00
+position 388.047000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2577,7 +2577,7 @@ $EndMODULE  D111
 $MODULE D112
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 385.572000 187.452000  orientation -90.00
+position 388.047000 163.927000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2596,7 +2596,7 @@ $EndMODULE  D112
 $MODULE D113
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 385.900000 206.000000  orientation -90.00
+position 388.375000 182.475000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2615,7 +2615,7 @@ $EndMODULE  D113
 $MODULE D114
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 456.692000 147.574000  orientation 180.00
+position 459.167000 124.049000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2634,7 +2634,7 @@ $EndMODULE  D114
 $MODULE D115
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 402.894800 132.308600  orientation -90.00
+position 405.369800 108.783600  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2653,7 +2653,7 @@ $EndMODULE  D115
 $MODULE D116
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 404.622000 149.098000  orientation -90.00
+position 407.097000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2672,7 +2672,7 @@ $EndMODULE  D116
 $MODULE D117
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 404.622000 168.148000  orientation -90.00
+position 407.097000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2691,7 +2691,7 @@ $EndMODULE  D117
 $MODULE D118
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 404.622000 187.452000  orientation -90.00
+position 407.097000 163.927000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2710,7 +2710,7 @@ $EndMODULE  D118
 $MODULE D119
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 423.672000 205.994000  orientation -90.00
+position 426.147000 182.469000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2729,7 +2729,7 @@ $EndMODULE  D119
 $MODULE D120
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 453.390000 184.150000  orientation -90.00
+position 455.865000 160.625000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2748,7 +2748,7 @@ $EndMODULE  D120
 $MODULE D121
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 421.792400 132.308600  orientation -90.00
+position 424.267400 108.783600  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2767,7 +2767,7 @@ $EndMODULE  D121
 $MODULE D122
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 423.672000 149.098000  orientation -90.00
+position 426.147000 125.573000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2786,7 +2786,7 @@ $EndMODULE  D122
 $MODULE D123
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 423.672000 168.148000  orientation -90.00
+position 426.147000 144.623000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2805,7 +2805,7 @@ $EndMODULE  D123
 $MODULE D124
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 423.672000 187.452000  orientation -90.00
+position 426.147000 163.927000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2824,7 +2824,7 @@ $EndMODULE  D124
 $MODULE D125
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 132.900000 205.000000  orientation -90.00
+position 135.375000 181.475000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2843,7 +2843,7 @@ $EndMODULE  D125
 $MODULE D126
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 154.150000 204.950000  orientation -90.00
+position 156.625000 181.425000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2862,7 +2862,7 @@ $EndMODULE  D126
 $MODULE D127
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 190.050000 204.950000  orientation -90.00
+position 192.525000 181.425000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2881,7 +2881,7 @@ $EndMODULE  D127
 $MODULE D128
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 323.590250 187.209500  orientation -90.00
+position 326.065250 163.684500  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2900,7 +2900,7 @@ $EndMODULE  D128
 $MODULE D129
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 361.690250 187.184500  orientation -90.00
+position 364.165250 163.659500  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2919,7 +2919,7 @@ $EndMODULE  D129
 $MODULE D701
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 137.668000 77.978000  orientation 180.00
+position 140.143000 54.453000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2938,7 +2938,7 @@ $EndMODULE  D701
 $MODULE D703
 footprint acheron_Components:D_SOD-123
 attribut smd
-position 235.100000 89.800000  orientation 0.00
+position 237.575000 66.275000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2957,7 +2957,7 @@ $EndMODULE  D703
 $MODULE F701
 footprint Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder
 attribut smd
-position 140.462000 73.406000  orientation 90.00
+position 142.937000 49.881000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -2976,7 +2976,7 @@ $EndMODULE  F701
 $MODULE H201
 footprint MountingHole:MountingHole_3.5mm_Pad_Via
 attribut virtual
-position 327.300000 174.200000  orientation 0.00
+position 329.775000 150.675000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -3037,7 +3037,7 @@ $EndMODULE  H201
 $MODULE HA201
 footprint acheronMountingHoles:ToolingHole_1.152mm_(for_JLCPCB_SMT)
 attribut none
-position 33.000000 60.000000  orientation 0.00
+position 35.475000 36.475000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer both
@@ -3050,7 +3050,7 @@ $EndMODULE  HA201
 $MODULE HA202
 footprint acheronMountingHoles:ToolingHole_1.152mm_(for_JLCPCB_SMT)
 attribut none
-position 33.000000 222.500000  orientation 0.00
+position 35.475000 198.975000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer both
@@ -3063,7 +3063,7 @@ $EndMODULE  HA202
 $MODULE HA203
 footprint acheronMountingHoles:ToolingHole_1.152mm_(for_JLCPCB_SMT)
 attribut none
-position 460.500000 60.000000  orientation 0.00
+position 462.975000 36.475000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer both
@@ -3076,7 +3076,7 @@ $EndMODULE  HA203
 $MODULE HA204
 footprint acheronMountingHoles:ToolingHole_1.152mm_(for_JLCPCB_SMT)
 attribut none
-position 460.500000 222.500000  orientation 0.00
+position 462.975000 198.975000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer both
@@ -3089,7 +3089,7 @@ $EndMODULE  HA204
 $MODULE J201
 footprint acheron:TYPE-C-31-M-12
 attribut none
-position 143.510000 58.097500  orientation 0.00
+position 145.985000 34.572500  orientation 0.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -3202,31 +3202,49 @@ $EndPAD
 $EndMODULE  J201
 
 $MODULE J202
-footprint acheron:Conn_ARM_JTAG_SWD_10
+footprint 1:Conn_ARM_JTAG_SWD_10_DUAL_SIDE
 attribut none
-position 233.900000 74.000000  orientation 0.00
-layer front
+position 237.679000 50.490600  orientation 180.00
+layer back
 $PAD "1"
 Shape Rect Layer both
-position -1.206500 -5.080000  size  1.524000  1.524000  orientation 0.00
+position -1.206500  5.080000  size  1.524000  1.524000  orientation 0.00
+drill  0.762000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  3.869500  5.080000  size  1.524000  1.524000  orientation 0.00
 drill  0.762000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "2"
 Shape Oval Layer both
-position  1.333500 -5.080000  size  1.524000  1.524000  orientation 0.00
+position  1.333500  5.080000  size  1.524000  1.524000  orientation 0.00
 drill  0.762000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "3"
 Shape Oval Layer both
-position -1.333500 -2.540000  size  1.524000  1.524000  orientation 0.00
+position  3.742500  2.540000  size  1.524000  1.524000  orientation 0.00
+drill  0.762000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Oval Layer both
+position -1.333500  2.540000  size  1.524000  1.524000  orientation 0.00
 drill  0.762000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "4"
 Shape Oval Layer both
-position  1.206500 -2.540000  size  1.524000  1.524000  orientation 0.00
+position  1.206500  2.540000  size  1.524000  1.524000  orientation 0.00
+drill  0.762000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Oval Layer both
+position  3.869500  0.000000  size  1.524000  1.524000  orientation 0.00
 drill  0.762000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -3244,25 +3262,37 @@ shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "7"
 Shape Oval Layer both
-position -1.333500  2.540000  size  1.524000  1.524000  orientation 0.00
+position  3.742500 -2.540000  size  1.524000  1.524000  orientation 0.00
+drill  0.762000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Oval Layer both
+position -1.333500 -2.540000  size  1.524000  1.524000  orientation 0.00
 drill  0.762000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "8"
 Shape Oval Layer both
-position  1.206500  2.540000  size  1.524000  1.524000  orientation 0.00
+position  1.206500 -2.540000  size  1.524000  1.524000  orientation 0.00
 drill  0.762000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "9"
 Shape Oval Layer both
-position -1.206500  5.080000  size  1.524000  1.524000  orientation 0.00
+position -1.206500 -5.080000  size  1.524000  1.524000  orientation 0.00
+drill  0.762000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Oval Layer both
+position  3.869500 -5.080000  size  1.524000  1.524000  orientation 0.00
 drill  0.762000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "10"
 Shape Oval Layer both
-position  1.333500  5.080000  size  1.524000  1.524000  orientation 0.00
+position  1.333500 -5.080000  size  1.524000  1.524000  orientation 0.00
 drill  0.762000
 shape_offset  0.000000  0.000000
 $EndPAD
@@ -3271,7 +3301,7 @@ $EndMODULE  J202
 $MODULE J203
 footprint Connector_FFC-FPC:TE_2-84953-0_1x20-1MP_P1.0mm_Horizontal
 attribut smd
-position 266.290000 122.830000  orientation 0.00
+position 268.765000 99.305000  orientation 0.00
 layer back
 $PAD "1"
 Shape Rect Layer back
@@ -3410,7 +3440,7 @@ $EndMODULE  J203
 $MODULE JMP6,14
 footprint Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
 attribut virtual
-position 339.350000 200.000000  orientation 180.00
+position 341.825000 176.475000  orientation 180.00
 layer back
 $PAD "1"
 Shape Rect Layer back
@@ -3429,7 +3459,7 @@ $EndMODULE  JMP6,14
 $MODULE JMP6,16
 footprint Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
 attribut virtual
-position 373.500000 202.350000  orientation 0.00
+position 375.975000 178.825000  orientation 0.00
 layer back
 $PAD "1"
 Shape Rect Layer back
@@ -3448,7 +3478,7 @@ $EndMODULE  JMP6,16
 $MODULE L1
 footprint Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 attribut smd
-position 53.340000 76.962000  orientation 180.00
+position 55.815000 53.437000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -3467,7 +3497,7 @@ $EndMODULE  L1
 $MODULE L2
 footprint Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 attribut smd
-position 374.904000 62.230000  orientation 180.00
+position 377.379000 38.705000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -3486,7 +3516,7 @@ $EndMODULE  L2
 $MODULE L701
 footprint SumidaInductor:Sumida0624CDMCC
 attribut virtual
-position 140.208000 101.854000  orientation -90.00
+position 142.683000 78.329000  orientation -90.00
 layer back
 $PAD "1"
 Shape Rect Layer back
@@ -3505,7 +3535,7 @@ $EndMODULE  L701
 $MODULE L702
 footprint Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 attribut smd
-position 149.987000 58.216800  orientation -90.00
+position 152.462000 34.691800  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -3524,7 +3554,7 @@ $EndMODULE  L702
 $MODULE L711
 footprint Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 attribut smd
-position 335.106500 177.775500  orientation -90.00
+position 337.581500 154.250500  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -3543,7 +3573,7 @@ $EndMODULE  L711
 $MODULE LED1,1
 footprint 3:WS2811S
 attribut none
-position 54.271000 81.604000  orientation 0.00
+position 56.746000 58.079000  orientation 0.00
 layer back
 $PAD "1"
 Shape Rect Layer back
@@ -3598,8 +3628,8 @@ $EndMODULE  LED1,1
 $MODULE LED1,2
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 69.850000 93.980000  orientation 0.00
-layer front
+position 72.325000 70.455000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3635,8 +3665,8 @@ $EndMODULE  LED1,2
 $MODULE LED1,3
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 88.900000 93.980000  orientation 0.00
-layer front
+position 91.375000 70.455000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3672,8 +3702,8 @@ $EndMODULE  LED1,3
 $MODULE LED1,4
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 107.950000 93.980000  orientation 0.00
-layer front
+position 110.425000 70.455000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3709,8 +3739,8 @@ $EndMODULE  LED1,4
 $MODULE LED1,5
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 127.000000 93.980000  orientation 0.00
-layer front
+position 129.475000 70.455000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3746,8 +3776,8 @@ $EndMODULE  LED1,5
 $MODULE LED1,6
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 160.490500 94.092500  orientation 0.00
-layer front
+position 162.965500 70.567500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3783,8 +3813,8 @@ $EndMODULE  LED1,6
 $MODULE LED1,7
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 179.540500 94.092500  orientation 0.00
-layer front
+position 182.015500 70.567500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3820,8 +3850,8 @@ $EndMODULE  LED1,7
 $MODULE LED1,8
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 198.590500 94.092500  orientation 0.00
-layer front
+position 201.065500 70.567500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3857,8 +3887,8 @@ $EndMODULE  LED1,8
 $MODULE LED1,9
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 217.640500 94.092500  orientation 0.00
-layer front
+position 220.115500 70.567500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3894,8 +3924,8 @@ $EndMODULE  LED1,9
 $MODULE LED1,10
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 250.787500 93.965500  orientation 0.00
-layer front
+position 253.262500 70.440500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3931,8 +3961,8 @@ $EndMODULE  LED1,10
 $MODULE LED1,11
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 269.837500 93.965500  orientation 0.00
-layer front
+position 272.312500 70.440500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -3968,8 +3998,8 @@ $EndMODULE  LED1,11
 $MODULE LED1,12
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 288.887500 93.965500  orientation 0.00
-layer front
+position 291.362500 70.440500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4005,8 +4035,8 @@ $EndMODULE  LED1,12
 $MODULE LED1,13
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 307.937500 93.965500  orientation 0.00
-layer front
+position 310.412500 70.440500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4042,8 +4072,8 @@ $EndMODULE  LED1,13
 $MODULE LED1,14
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 331.813500 74.915500  orientation 0.00
-layer front
+position 334.288500 51.390500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4079,8 +4109,8 @@ $EndMODULE  LED1,14
 $MODULE LED1,15
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 350.863500 74.915500  orientation 0.00
-layer front
+position 353.338500 51.390500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4116,7 +4146,7 @@ $EndMODULE  LED1,15
 $MODULE LED1,16
 footprint 3:WS2811S
 attribut none
-position 382.651000 70.485000  orientation 0.00
+position 385.126000 46.960000  orientation 0.00
 layer back
 $PAD "1"
 Shape Rect Layer back
@@ -4171,8 +4201,8 @@ $EndMODULE  LED1,16
 $MODULE LED2,1
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 41.100000 113.650000  orientation 180.00
-layer front
+position 43.575000 90.125000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4208,8 +4238,8 @@ $EndMODULE  LED2,1
 $MODULE LED2,2
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 69.812500 113.015500  orientation 180.00
-layer front
+position 72.287500 89.490500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4245,8 +4275,8 @@ $EndMODULE  LED2,2
 $MODULE LED2,3
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 88.862500 113.015500  orientation 180.00
-layer front
+position 91.337500 89.490500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4282,8 +4312,8 @@ $EndMODULE  LED2,3
 $MODULE LED2,4
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 107.912500 113.015500  orientation 180.00
-layer front
+position 110.387500 89.490500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4319,8 +4349,8 @@ $EndMODULE  LED2,4
 $MODULE LED2,5
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 126.962500 113.015500  orientation 180.00
-layer front
+position 129.437500 89.490500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4356,8 +4386,8 @@ $EndMODULE  LED2,5
 $MODULE LED2,6
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 160.400000 113.250000  orientation 180.00
-layer front
+position 162.875000 89.725000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4393,8 +4423,8 @@ $EndMODULE  LED2,6
 $MODULE LED2,7
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 179.450000 113.250000  orientation 180.00
-layer front
+position 181.925000 89.725000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4430,8 +4460,8 @@ $EndMODULE  LED2,7
 $MODULE LED2,8
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 198.500000 113.250000  orientation 180.00
-layer front
+position 200.975000 89.725000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4467,8 +4497,8 @@ $EndMODULE  LED2,8
 $MODULE LED2,9
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 217.650000 113.250000  orientation 180.00
-layer front
+position 220.125000 89.725000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4504,8 +4534,8 @@ $EndMODULE  LED2,9
 $MODULE LED2,10
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 250.787500 113.015500  orientation 180.00
-layer front
+position 253.262500 89.490500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4541,8 +4571,8 @@ $EndMODULE  LED2,10
 $MODULE LED2,11
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 269.837500 113.015500  orientation 180.00
-layer front
+position 272.312500 89.490500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4578,8 +4608,8 @@ $EndMODULE  LED2,11
 $MODULE LED2,12
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 288.887500 113.015500  orientation 180.00
-layer front
+position 291.362500 89.490500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4615,8 +4645,8 @@ $EndMODULE  LED2,12
 $MODULE LED2,13
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 307.937500 113.015500  orientation 180.00
-layer front
+position 310.412500 89.490500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4652,8 +4682,8 @@ $EndMODULE  LED2,13
 $MODULE LED2,14
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 331.813500 93.965500  orientation 180.00
-layer front
+position 334.288500 70.440500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4689,8 +4719,8 @@ $EndMODULE  LED2,14
 $MODULE LED2,15
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 350.863500 93.965500  orientation 180.00
-layer front
+position 353.338500 70.440500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4726,8 +4756,8 @@ $EndMODULE  LED2,15
 $MODULE LED2,16
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 369.913500 93.965500  orientation 180.00
-layer front
+position 372.388500 70.440500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -4763,8 +4793,8 @@ $EndMODULE  LED2,16
 $MODULE LED2,17
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 450.812500 141.590500  orientation 0.00
-layer front
+position 453.287500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4800,8 +4830,8 @@ $EndMODULE  LED2,17
 $MODULE LED2,18
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 445.590000 165.430000  orientation 90.00
-layer front
+position 448.065000 141.905000  orientation 90.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4837,8 +4867,8 @@ $EndMODULE  LED2,18
 $MODULE LED2,19
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 445.430000 203.430000  orientation -90.00
-layer front
+position 447.905000 179.905000  orientation -90.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4874,8 +4904,8 @@ $EndMODULE  LED2,19
 $MODULE LED3,1
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 41.237500 141.605000  orientation 0.00
-layer front
+position 43.712500 118.080000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4911,8 +4941,8 @@ $EndMODULE  LED3,1
 $MODULE LED3,2
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 60.287500 141.605000  orientation 0.00
-layer front
+position 62.762500 118.080000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4948,8 +4978,8 @@ $EndMODULE  LED3,2
 $MODULE LED3,3
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 79.337500 141.605000  orientation 0.00
-layer front
+position 81.812500 118.080000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -4985,8 +5015,8 @@ $EndMODULE  LED3,3
 $MODULE LED3,4
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 98.387500 141.605000  orientation 0.00
-layer front
+position 100.862500 118.080000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5022,8 +5052,8 @@ $EndMODULE  LED3,4
 $MODULE LED3,5
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 117.437500 141.590500  orientation 0.00
-layer front
+position 119.912500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5059,8 +5089,8 @@ $EndMODULE  LED3,5
 $MODULE LED3,6
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 136.487500 141.590500  orientation 0.00
-layer front
+position 138.962500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5096,8 +5126,8 @@ $EndMODULE  LED3,6
 $MODULE LED3,7
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 155.537500 141.590500  orientation 0.00
-layer front
+position 158.012500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5133,8 +5163,8 @@ $EndMODULE  LED3,7
 $MODULE LED3,8
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 174.587500 141.590500  orientation 0.00
-layer front
+position 177.062500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5170,8 +5200,8 @@ $EndMODULE  LED3,8
 $MODULE LED3,9
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 193.637500 141.590500  orientation 0.00
-layer front
+position 196.112500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5207,8 +5237,8 @@ $EndMODULE  LED3,9
 $MODULE LED3,10
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 212.687500 141.590500  orientation 0.00
-layer front
+position 215.162500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5244,8 +5274,8 @@ $EndMODULE  LED3,10
 $MODULE LED3,11
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 231.737500 141.590500  orientation 0.00
-layer front
+position 234.212500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5281,8 +5311,8 @@ $EndMODULE  LED3,11
 $MODULE LED3,12
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 250.787500 141.590500  orientation 0.00
-layer front
+position 253.262500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5318,8 +5348,8 @@ $EndMODULE  LED3,12
 $MODULE LED3,13
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 269.875000 141.605000  orientation 0.00
-layer front
+position 272.350000 118.080000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5355,8 +5385,8 @@ $EndMODULE  LED3,13
 $MODULE LED3,14
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 331.813500 113.015500  orientation 0.00
-layer front
+position 334.288500 89.490500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5392,8 +5422,8 @@ $EndMODULE  LED3,14
 $MODULE LED3,15
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 350.863500 113.015500  orientation 0.00
-layer front
+position 353.338500 89.490500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5429,8 +5459,8 @@ $EndMODULE  LED3,15
 $MODULE LED3,16
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 369.913500 113.015500  orientation 0.00
-layer front
+position 372.388500 89.490500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5466,8 +5496,8 @@ $EndMODULE  LED3,16
 $MODULE LED3,17
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 393.662500 141.590500  orientation 0.00
-layer front
+position 396.137500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5503,8 +5533,8 @@ $EndMODULE  LED3,17
 $MODULE LED3,18
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 412.712500 141.590500  orientation 0.00
-layer front
+position 415.187500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5540,8 +5570,8 @@ $EndMODULE  LED3,18
 $MODULE LED3,19
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 431.762500 141.590500  orientation 0.00
-layer front
+position 434.237500 118.065500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -5577,8 +5607,8 @@ $EndMODULE  LED3,19
 $MODULE LED4,1
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 46.063500 160.640500  orientation 180.00
-layer front
+position 48.538500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5614,8 +5644,8 @@ $EndMODULE  LED4,1
 $MODULE LED4,2
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 69.812500 160.640500  orientation 180.00
-layer front
+position 72.287500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5651,8 +5681,8 @@ $EndMODULE  LED4,2
 $MODULE LED4,3
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 88.862500 160.640500  orientation 180.00
-layer front
+position 91.337500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5688,8 +5718,8 @@ $EndMODULE  LED4,3
 $MODULE LED4,4
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 107.912500 160.640500  orientation 180.00
-layer front
+position 110.387500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5725,8 +5755,8 @@ $EndMODULE  LED4,4
 $MODULE LED4,5
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 126.962500 160.640500  orientation 180.00
-layer front
+position 129.437500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5762,8 +5792,8 @@ $EndMODULE  LED4,5
 $MODULE LED4,6
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 146.012500 160.640500  orientation 180.00
-layer front
+position 148.487500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5799,8 +5829,8 @@ $EndMODULE  LED4,6
 $MODULE LED4,7
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 165.062500 160.640500  orientation 180.00
-layer front
+position 167.537500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5836,8 +5866,8 @@ $EndMODULE  LED4,7
 $MODULE LED4,8
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 184.112500 160.640500  orientation 180.00
-layer front
+position 186.587500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5873,8 +5903,8 @@ $EndMODULE  LED4,8
 $MODULE LED4,9
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 203.162500 160.640500  orientation 180.00
-layer front
+position 205.637500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5910,8 +5940,8 @@ $EndMODULE  LED4,9
 $MODULE LED4,10
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 222.212500 160.640500  orientation 180.00
-layer front
+position 224.687500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5947,8 +5977,8 @@ $EndMODULE  LED4,10
 $MODULE LED4,11
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 241.262500 160.640500  orientation 180.00
-layer front
+position 243.737500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -5984,8 +6014,8 @@ $EndMODULE  LED4,11
 $MODULE LED4,12
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 260.312500 160.640500  orientation 180.00
-layer front
+position 262.787500 137.115500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -6021,8 +6051,8 @@ $EndMODULE  LED4,12
 $MODULE LED4,13
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 298.412500 141.590500  orientation 180.00
-layer front
+position 300.887500 118.065500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -6058,8 +6088,8 @@ $EndMODULE  LED4,13
 $MODULE LED4,14
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 331.813500 141.717500  orientation 180.00
-layer front
+position 334.288500 118.192500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -6095,8 +6125,8 @@ $EndMODULE  LED4,14
 $MODULE LED4,15
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 350.863500 141.717500  orientation 180.00
-layer front
+position 353.338500 118.192500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -6132,8 +6162,8 @@ $EndMODULE  LED4,15
 $MODULE LED4,16
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 369.913500 141.717500  orientation 180.00
-layer front
+position 372.388500 118.192500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -6169,8 +6199,8 @@ $EndMODULE  LED4,16
 $MODULE LED4,17
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 393.662500 160.767500  orientation 180.00
-layer front
+position 396.137500 137.242500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -6206,8 +6236,8 @@ $EndMODULE  LED4,17
 $MODULE LED4,18
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 412.712500 160.767500  orientation 180.00
-layer front
+position 415.187500 137.242500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -6243,8 +6273,8 @@ $EndMODULE  LED4,18
 $MODULE LED4,19
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 431.762500 160.767500  orientation 180.00
-layer front
+position 434.237500 137.242500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -6280,8 +6310,8 @@ $EndMODULE  LED4,19
 $MODULE LED5,1
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 48.349500 179.690500  orientation 0.00
-layer front
+position 50.824500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6317,8 +6347,8 @@ $EndMODULE  LED5,1
 $MODULE LED5,2
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 74.638500 179.690500  orientation 0.00
-layer front
+position 77.113500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6354,8 +6384,8 @@ $EndMODULE  LED5,2
 $MODULE LED5,3
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 93.688500 179.690500  orientation 0.00
-layer front
+position 96.163500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6391,8 +6421,8 @@ $EndMODULE  LED5,3
 $MODULE LED5,4
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 112.738500 179.690500  orientation 0.00
-layer front
+position 115.213500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6428,8 +6458,8 @@ $EndMODULE  LED5,4
 $MODULE LED5,5
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 131.661500 179.690500  orientation 0.00
-layer front
+position 134.136500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6465,8 +6495,8 @@ $EndMODULE  LED5,5
 $MODULE LED5,6
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 150.711500 179.690500  orientation 0.00
-layer front
+position 153.186500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6502,8 +6532,8 @@ $EndMODULE  LED5,6
 $MODULE LED5,7
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 169.761500 179.690500  orientation 0.00
-layer front
+position 172.236500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6539,8 +6569,8 @@ $EndMODULE  LED5,7
 $MODULE LED5,8
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 188.811500 179.690500  orientation 0.00
-layer front
+position 191.286500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6576,8 +6606,8 @@ $EndMODULE  LED5,8
 $MODULE LED5,9
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 207.988500 179.690500  orientation 0.00
-layer front
+position 210.463500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6613,8 +6643,8 @@ $EndMODULE  LED5,9
 $MODULE LED5,10
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 227.038500 179.690500  orientation 0.00
-layer front
+position 229.513500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6650,8 +6680,8 @@ $EndMODULE  LED5,10
 $MODULE LED5,11
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 246.088500 179.690500  orientation 0.00
-layer front
+position 248.563500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6687,8 +6717,8 @@ $EndMODULE  LED5,11
 $MODULE LED5,12
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 265.138500 179.690500  orientation 0.00
-layer front
+position 267.613500 156.165500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6724,8 +6754,8 @@ $EndMODULE  LED5,12
 $MODULE LED5,13
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 279.350000 160.550000  orientation 0.00
-layer front
+position 281.825000 137.025000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6761,8 +6791,8 @@ $EndMODULE  LED5,13
 $MODULE LED5,14
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 331.813500 160.640500  orientation 0.00
-layer front
+position 334.288500 137.115500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6798,8 +6828,8 @@ $EndMODULE  LED5,14
 $MODULE LED5,15
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 350.863500 160.640500  orientation 0.00
-layer front
+position 353.338500 137.115500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6835,8 +6865,8 @@ $EndMODULE  LED5,15
 $MODULE LED5,16
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 369.913500 160.640500  orientation 0.00
-layer front
+position 372.388500 137.115500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6872,8 +6902,8 @@ $EndMODULE  LED5,16
 $MODULE LED5,17
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 393.662500 179.817500  orientation 0.00
-layer front
+position 396.137500 156.292500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6909,8 +6939,8 @@ $EndMODULE  LED5,17
 $MODULE LED5,18
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 412.712500 179.817500  orientation 0.00
-layer front
+position 415.187500 156.292500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6946,8 +6976,8 @@ $EndMODULE  LED5,18
 $MODULE LED5,19
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 431.762500 179.817500  orientation 0.00
-layer front
+position 434.237500 156.292500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -6983,8 +7013,8 @@ $EndMODULE  LED5,19
 $MODULE LED6,1
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 43.650500 198.740500  orientation 180.00
-layer front
+position 46.125500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7020,8 +7050,8 @@ $EndMODULE  LED6,1
 $MODULE LED6,2
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 65.113500 198.740500  orientation 180.00
-layer front
+position 67.588500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7057,8 +7087,8 @@ $EndMODULE  LED6,2
 $MODULE LED6,3
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 84.163500 198.740500  orientation 180.00
-layer front
+position 86.638500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7094,8 +7124,8 @@ $EndMODULE  LED6,3
 $MODULE LED6,4
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 103.213500 198.740500  orientation 180.00
-layer front
+position 105.688500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7131,8 +7161,8 @@ $EndMODULE  LED6,4
 $MODULE LED6,5
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 122.136500 198.740500  orientation 180.00
-layer front
+position 124.611500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7168,8 +7198,8 @@ $EndMODULE  LED6,5
 $MODULE LED6,6
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 141.186500 198.740500  orientation 180.00
-layer front
+position 143.661500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7205,8 +7235,8 @@ $EndMODULE  LED6,6
 $MODULE LED6,7
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 160.236500 198.740500  orientation 180.00
-layer front
+position 162.711500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7242,8 +7272,8 @@ $EndMODULE  LED6,7
 $MODULE LED6,8
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 179.286500 198.740500  orientation 180.00
-layer front
+position 181.761500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7279,8 +7309,8 @@ $EndMODULE  LED6,8
 $MODULE LED6,9
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 198.463500 198.740500  orientation 180.00
-layer front
+position 200.938500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7316,8 +7346,8 @@ $EndMODULE  LED6,9
 $MODULE LED6,10
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 217.513500 198.740500  orientation 180.00
-layer front
+position 219.988500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7353,8 +7383,8 @@ $EndMODULE  LED6,10
 $MODULE LED6,11
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 236.563500 198.740500  orientation 180.00
-layer front
+position 239.038500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7390,8 +7420,8 @@ $EndMODULE  LED6,11
 $MODULE LED6,12
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 284.188500 179.690500  orientation 180.00
-layer front
+position 286.663500 156.165500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7427,8 +7457,8 @@ $EndMODULE  LED6,12
 $MODULE LED6,13
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 305.562000 170.673500  orientation 180.00
-layer front
+position 308.037000 147.148500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7464,8 +7494,8 @@ $EndMODULE  LED6,13
 $MODULE LED6,14
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 331.450000 199.200000  orientation 180.00
-layer front
+position 333.925000 175.675000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7501,8 +7531,8 @@ $EndMODULE  LED6,14
 $MODULE LED6,15
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 350.780000 198.820000  orientation 180.00
-layer front
+position 353.255000 175.295000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7538,8 +7568,8 @@ $EndMODULE  LED6,15
 $MODULE LED6,16
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 369.875000 198.925000  orientation 180.00
-layer front
+position 372.350000 175.400000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7575,8 +7605,8 @@ $EndMODULE  LED6,16
 $MODULE LED6,17
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 393.760000 198.820000  orientation 180.00
-layer front
+position 396.235000 175.295000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7612,8 +7642,8 @@ $EndMODULE  LED6,17
 $MODULE LED6,18
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 412.810000 198.820000  orientation 180.00
-layer front
+position 415.285000 175.295000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7649,8 +7679,8 @@ $EndMODULE  LED6,18
 $MODULE LED6,19
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 431.762500 198.740500  orientation 180.00
-layer front
+position 434.237500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -7686,8 +7716,8 @@ $EndMODULE  LED6,19
 $MODULE LED7,1
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 43.650500 217.790500  orientation 0.00
-layer front
+position 46.125500 194.265500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -7723,8 +7753,8 @@ $EndMODULE  LED7,1
 $MODULE LED7,2
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 67.399500 217.790500  orientation 0.00
-layer front
+position 69.874500 194.265500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -7760,8 +7790,8 @@ $EndMODULE  LED7,2
 $MODULE LED7,3
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 91.275500 217.790500  orientation 0.00
-layer front
+position 93.750500 194.265500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -7797,8 +7827,8 @@ $EndMODULE  LED7,3
 $MODULE LED7,5
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 126.800000 217.800000  orientation 0.00
-layer front
+position 129.275000 194.275000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -7834,8 +7864,8 @@ $EndMODULE  LED7,5
 $MODULE LED7,6
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 162.776500 217.790500  orientation 0.00
-layer front
+position 165.251500 194.265500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -7871,8 +7901,8 @@ $EndMODULE  LED7,6
 $MODULE LED7,7
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 198.500000 217.800000  orientation 0.00
-layer front
+position 200.975000 194.275000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -7908,8 +7938,8 @@ $EndMODULE  LED7,7
 $MODULE LED7,8
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 234.150500 217.790500  orientation 0.00
-layer front
+position 236.625500 194.265500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -7945,8 +7975,8 @@ $EndMODULE  LED7,8
 $MODULE LED7,9
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 257.937000 217.790500  orientation 0.00
-layer front
+position 260.412000 194.265500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -7982,8 +8012,8 @@ $EndMODULE  LED7,9
 $MODULE LED7,10
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 281.686000 217.790500  orientation 0.00
-layer front
+position 284.161000 194.265500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -8019,8 +8049,8 @@ $EndMODULE  LED7,10
 $MODULE LED7,11
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 305.524500 217.790500  orientation 0.00
-layer front
+position 307.999500 194.265500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -8056,8 +8086,8 @@ $EndMODULE  LED7,11
 $MODULE LED7,12
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 255.660000 199.040000  orientation 180.00
-layer front
+position 258.135000 175.515000  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -8093,8 +8123,8 @@ $EndMODULE  LED7,12
 $MODULE LED7,13
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 291.300500 198.740500  orientation 180.00
-layer front
+position 293.775500 175.215500  orientation 180.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation -180.00
@@ -8130,8 +8160,8 @@ $EndMODULE  LED7,13
 $MODULE LED7,14
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 331.813500 217.917500  orientation 0.00
-layer front
+position 334.288500 194.392500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -8167,8 +8197,8 @@ $EndMODULE  LED7,14
 $MODULE LED7,15
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 350.863500 217.917500  orientation 0.00
-layer front
+position 353.338500 194.392500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -8204,8 +8234,8 @@ $EndMODULE  LED7,15
 $MODULE LED7,16
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 369.913500 217.917500  orientation 0.00
-layer front
+position 372.388500 194.392500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -8241,8 +8271,8 @@ $EndMODULE  LED7,16
 $MODULE LED7,17
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 403.225000 217.805000  orientation 0.00
-layer front
+position 405.700000 194.280000  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -8278,8 +8308,8 @@ $EndMODULE  LED7,17
 $MODULE LED7,18
 footprint 3:SK6812MINI_3535_6028_3.2x2.8mm_Round
 attribut smd
-position 431.762500 217.917500  orientation 0.00
-layer front
+position 434.237500 194.392500  orientation 0.00
+layer back
 $PAD ""
 Shape Circle Layer both
 position  0.000000  0.000000  size  4.250000  4.250000  orientation 180.00
@@ -8315,7 +8345,7 @@ $EndMODULE  LED7,18
 $MODULE LED201
 footprint acheron_Components:LED_THT_2.54mm
 attribut none
-position 284.000000 61.200000  orientation 0.00
+position 286.475000 37.675000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer nocopper
@@ -8346,7 +8376,7 @@ $EndMODULE  LED201
 $MODULE LED202
 footprint acheron_Components:LED_THT_2.54mm
 attribut none
-position 299.000000 61.200000  orientation 0.00
+position 301.475000 37.675000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer nocopper
@@ -8377,7 +8407,7 @@ $EndMODULE  LED202
 $MODULE LED203
 footprint acheron_Components:LED_THT_2.54mm
 attribut none
-position 314.000000 61.200000  orientation 0.00
+position 316.475000 37.675000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer nocopper
@@ -8408,14 +8438,14 @@ $EndMODULE  LED203
 $MODULE LOGO201
 footprint Symbol:OSHW-Logo_11.4x12mm_SilkScreen
 attribut virtual
-position 351.850000 171.450000  orientation 180.00
+position 354.325000 147.925000  orientation 180.00
 layer back
 $EndMODULE  LOGO201
 
 $MODULE Q701
 footprint Package_TO_SOT_SMD:SOT-23
 attribut smd
-position 240.100000 93.750000  orientation -90.00
+position 242.575000 70.225000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8440,7 +8470,7 @@ $EndMODULE  Q701
 $MODULE R101
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 56.388000 87.657000  orientation 90.00
+position 58.863000 64.132000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8459,7 +8489,7 @@ $EndMODULE  R101
 $MODULE R102
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 389.001000 69.850000  orientation 180.00
+position 391.476000 46.325000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8478,7 +8508,7 @@ $EndMODULE  R102
 $MODULE R301
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 50.446000 122.968000  orientation -90.00
+position 52.921000 99.443000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8497,7 +8527,7 @@ $EndMODULE  R301
 $MODULE R302
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 67.150000 123.100000  orientation -90.00
+position 69.625000 99.575000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8516,7 +8546,7 @@ $EndMODULE  R302
 $MODULE R303
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 63.950000 123.100000  orientation -90.00
+position 66.425000 99.575000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8535,7 +8565,7 @@ $EndMODULE  R303
 $MODULE R304
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 314.250000 77.000000  orientation 90.00
+position 316.725000 53.475000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8554,7 +8584,7 @@ $EndMODULE  R304
 $MODULE R305
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 317.650000 77.000000  orientation 90.00
+position 320.125000 53.475000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8573,7 +8603,7 @@ $EndMODULE  R305
 $MODULE R306
 footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
 attribut none
-position 272.600000 61.200000  orientation 0.00
+position 275.075000 37.675000  orientation 0.00
 layer back
 $PAD "1"
 Shape Circle Layer both
@@ -8592,7 +8622,7 @@ $EndMODULE  R306
 $MODULE R307
 footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
 attribut none
-position 287.600000 61.200000  orientation 0.00
+position 290.075000 37.675000  orientation 0.00
 layer back
 $PAD "1"
 Shape Circle Layer both
@@ -8611,7 +8641,7 @@ $EndMODULE  R307
 $MODULE R308
 footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
 attribut none
-position 302.600000 61.200000  orientation 0.00
+position 305.075000 37.675000  orientation 0.00
 layer back
 $PAD "1"
 Shape Circle Layer both
@@ -8630,7 +8660,7 @@ $EndMODULE  R308
 $MODULE R701
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 138.176000 80.178000  orientation 0.00
+position 140.651000 56.653000  orientation 0.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8649,7 +8679,7 @@ $EndMODULE  R701
 $MODULE R702
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 235.204000 94.361000  orientation 180.00
+position 237.679000 70.836000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8668,7 +8698,7 @@ $EndMODULE  R702
 $MODULE R703
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 239.350000 89.050000  orientation -90.00
+position 241.825000 65.525000  orientation -90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8687,7 +8717,7 @@ $EndMODULE  R703
 $MODULE R705
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 146.862800 61.900000  orientation 180.00
+position 149.337800 38.375000  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8706,7 +8736,7 @@ $EndMODULE  R705
 $MODULE R706
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 139.217400 62.407800  orientation 180.00
+position 141.692400 38.882800  orientation 180.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8725,7 +8755,7 @@ $EndMODULE  R706
 $MODULE R711
 footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
 attribut smd
-position 230.400000 90.600000  orientation 90.00
+position 232.875000 67.075000  orientation 90.00
 layer back
 $PAD "1"
 Shape Roundrect Layer back
@@ -8744,7 +8774,7 @@ $EndMODULE  R711
 $MODULE RV204
 footprint Potentiometer_THT:Potentiometer_Bourns_PTA6043_Single_Slide
 attribut none
-position 61.746250 68.100000  orientation 0.00
+position 64.221250 44.575000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -8793,7 +8823,7 @@ $EndMODULE  RV204
 $MODULE RV205
 footprint Potentiometer_THT:Potentiometer_Bourns_PTA6043_Single_Slide
 attribut none
-position 152.329000 68.100000  orientation 0.00
+position 154.804000 44.575000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -8842,7 +8872,7 @@ $EndMODULE  RV205
 $MODULE RV206
 footprint Potentiometer_THT:Potentiometer_Bourns_PTA6043_Single_Slide
 attribut none
-position 242.816500 68.100000  orientation 0.00
+position 245.291500 44.575000  orientation 0.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -8891,7 +8921,7 @@ $EndMODULE  RV206
 $MODULE SW1,1
 footprint 3:RotaryEncoder_Switch_RGB
 attribut none
-position 43.775000 69.458000  orientation -90.00
+position 46.250000 45.933000  orientation -90.00
 layer front
 $PAD "+"
 Shape Circle Layer both
@@ -8958,7 +8988,7 @@ $EndMODULE  SW1,1
 $MODULE SW1,2
 footprint acheron:MX100H
 attribut smd
-position 69.818250 88.931750  orientation 180.00
+position 72.293250 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9007,7 +9037,7 @@ $EndMODULE  SW1,2
 $MODULE SW1,3
 footprint acheron:MX100H
 attribut smd
-position 88.868250 88.931750  orientation 180.00
+position 91.343250 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9056,7 +9086,7 @@ $EndMODULE  SW1,3
 $MODULE SW1,4
 footprint acheron:MX100H
 attribut smd
-position 107.918250 88.931750  orientation 180.00
+position 110.393250 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9105,7 +9135,7 @@ $EndMODULE  SW1,4
 $MODULE SW1,5
 footprint acheron:MX100H
 attribut smd
-position 126.968250 88.931750  orientation 180.00
+position 129.443250 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9154,7 +9184,7 @@ $EndMODULE  SW1,5
 $MODULE SW1,6
 footprint acheron:MX100H
 attribut smd
-position 160.401090 88.931750  orientation 180.00
+position 162.876090 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9203,7 +9233,7 @@ $EndMODULE  SW1,6
 $MODULE SW1,7
 footprint acheron:MX100H
 attribut smd
-position 179.451106 88.931750  orientation 180.00
+position 181.926106 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9252,7 +9282,7 @@ $EndMODULE  SW1,7
 $MODULE SW1,8
 footprint acheron:MX100H
 attribut smd
-position 198.501000 88.931750  orientation 180.00
+position 200.976000 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9301,7 +9331,7 @@ $EndMODULE  SW1,8
 $MODULE SW1,9
 footprint acheron:MX100H
 attribut smd
-position 217.551000 88.931750  orientation 180.00
+position 220.026000 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9350,7 +9380,7 @@ $EndMODULE  SW1,9
 $MODULE SW1,10
 footprint acheron:MX100H
 attribut smd
-position 250.793410 88.931750  orientation 180.00
+position 253.268410 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9399,7 +9429,7 @@ $EndMODULE  SW1,10
 $MODULE SW1,11
 footprint acheron:MX100H
 attribut smd
-position 269.843250 88.931750  orientation 180.00
+position 272.318250 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9448,7 +9478,7 @@ $EndMODULE  SW1,11
 $MODULE SW1,12
 footprint acheron:MX100H
 attribut smd
-position 288.893250 88.931750  orientation 180.00
+position 291.368250 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9497,7 +9527,7 @@ $EndMODULE  SW1,12
 $MODULE SW1,13
 footprint acheron:MX100H
 attribut smd
-position 307.943250 88.931750  orientation 180.00
+position 310.418250 65.406750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9546,7 +9576,7 @@ $EndMODULE  SW1,13
 $MODULE SW1,14
 footprint acheron:MX100H
 attribut smd
-position 331.787500 69.850000  orientation 180.00
+position 334.262500 46.325000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9595,7 +9625,7 @@ $EndMODULE  SW1,14
 $MODULE SW1,15
 footprint acheron:MX100H
 attribut smd
-position 350.837500 69.850000  orientation 180.00
+position 353.312500 46.325000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9644,7 +9674,7 @@ $EndMODULE  SW1,15
 $MODULE SW1,16
 footprint 3:RotaryEncoder_Switch_RGB
 attribut none
-position 362.447000 67.350000  orientation 0.00
+position 364.922000 43.825000  orientation 0.00
 layer front
 $PAD "+"
 Shape Circle Layer both
@@ -9711,7 +9741,7 @@ $EndMODULE  SW1,16
 $MODULE SW2,1
 footprint acheron:MX100H
 attribut smd
-position 41.243250 107.981750  orientation 180.00
+position 43.718250 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9760,7 +9790,7 @@ $EndMODULE  SW2,1
 $MODULE SW2,2
 footprint acheron:MX100H
 attribut smd
-position 69.818250 107.981750  orientation 180.00
+position 72.293250 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9809,7 +9839,7 @@ $EndMODULE  SW2,2
 $MODULE SW2,3
 footprint acheron:MX100H
 attribut smd
-position 88.868250 107.981750  orientation 180.00
+position 91.343250 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9858,7 +9888,7 @@ $EndMODULE  SW2,3
 $MODULE SW2,4
 footprint acheron:MX100H
 attribut smd
-position 107.918250 107.981750  orientation 180.00
+position 110.393250 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9907,7 +9937,7 @@ $EndMODULE  SW2,4
 $MODULE SW2,5
 footprint acheron:MX100H
 attribut smd
-position 126.970000 107.980000  orientation 180.00
+position 129.445000 84.455000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -9956,7 +9986,7 @@ $EndMODULE  SW2,5
 $MODULE SW2,6
 footprint acheron:MX100H
 attribut smd
-position 160.401000 107.981750  orientation 180.00
+position 162.876000 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10005,7 +10035,7 @@ $EndMODULE  SW2,6
 $MODULE SW2,7
 footprint acheron:MX100H
 attribut smd
-position 179.451000 107.981750  orientation 180.00
+position 181.926000 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10054,7 +10084,7 @@ $EndMODULE  SW2,7
 $MODULE SW2,8
 footprint acheron:MX100H
 attribut smd
-position 198.501000 107.981750  orientation 180.00
+position 200.976000 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10103,7 +10133,7 @@ $EndMODULE  SW2,8
 $MODULE SW2,9
 footprint acheron:MX100H
 attribut smd
-position 217.551000 107.981750  orientation 180.00
+position 220.026000 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10152,7 +10182,7 @@ $EndMODULE  SW2,9
 $MODULE SW2,10
 footprint acheron:MX100H
 attribut smd
-position 250.793250 107.981750  orientation 180.00
+position 253.268250 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10201,7 +10231,7 @@ $EndMODULE  SW2,10
 $MODULE SW2,11
 footprint acheron:MX100H
 attribut smd
-position 269.843250 107.981750  orientation 180.00
+position 272.318250 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10250,7 +10280,7 @@ $EndMODULE  SW2,11
 $MODULE SW2,12
 footprint acheron:MX100H
 attribut smd
-position 288.893250 107.981750  orientation 180.00
+position 291.368250 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10299,7 +10329,7 @@ $EndMODULE  SW2,12
 $MODULE SW2,13
 footprint acheron:MX100H
 attribut smd
-position 307.943250 107.981750  orientation 180.00
+position 310.418250 84.456750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10348,7 +10378,7 @@ $EndMODULE  SW2,13
 $MODULE SW2,14
 footprint acheron:MX100H
 attribut smd
-position 331.787500 88.900000  orientation 180.00
+position 334.262500 65.375000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10397,7 +10427,7 @@ $EndMODULE  SW2,14
 $MODULE SW2,15
 footprint acheron:MX100H
 attribut smd
-position 350.837500 88.900000  orientation 180.00
+position 353.312500 65.375000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10446,7 +10476,7 @@ $EndMODULE  SW2,15
 $MODULE SW2,16
 footprint acheron:MX100H
 attribut smd
-position 369.887500 88.900000  orientation 180.00
+position 372.362500 65.375000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10495,7 +10525,7 @@ $EndMODULE  SW2,16
 $MODULE SW2,17
 footprint acheron:MX100H
 attribut smd
-position 450.818250 136.588500  orientation 180.00
+position 453.293250 113.063500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10544,7 +10574,7 @@ $EndMODULE  SW2,17
 $MODULE SW2,18
 footprint acheron_MXH:MX200H
 attribut smd
-position 450.818250 165.163500  orientation 90.00
+position 453.293250 141.638500  orientation 90.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10617,7 +10647,7 @@ $EndMODULE  SW2,18
 $MODULE SW2,19
 footprint acheron_MXH:MX200HR
 attribut smd
-position 450.818250 203.263500  orientation 90.00
+position 453.293250 179.738500  orientation 90.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10690,7 +10720,7 @@ $EndMODULE  SW2,19
 $MODULE SW3,1
 footprint acheron:MX100H
 attribut smd
-position 41.243250 136.556750  orientation 180.00
+position 43.718250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10739,7 +10769,7 @@ $EndMODULE  SW3,1
 $MODULE SW3,2
 footprint acheron:MX100H
 attribut smd
-position 60.293250 136.556750  orientation 180.00
+position 62.768250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10788,7 +10818,7 @@ $EndMODULE  SW3,2
 $MODULE SW3,3
 footprint acheron:MX100H
 attribut smd
-position 79.343250 136.556750  orientation 180.00
+position 81.818250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10837,7 +10867,7 @@ $EndMODULE  SW3,3
 $MODULE SW3,4
 footprint acheron:MX100H
 attribut smd
-position 98.393250 136.556750  orientation 180.00
+position 100.868250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10886,7 +10916,7 @@ $EndMODULE  SW3,4
 $MODULE SW3,5
 footprint acheron:MX100H
 attribut smd
-position 117.443250 136.556750  orientation 180.00
+position 119.918250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10935,7 +10965,7 @@ $EndMODULE  SW3,5
 $MODULE SW3,6
 footprint acheron:MX100H
 attribut smd
-position 136.493250 136.556750  orientation 180.00
+position 138.968250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -10984,7 +11014,7 @@ $EndMODULE  SW3,6
 $MODULE SW3,7
 footprint acheron:MX100H
 attribut smd
-position 155.543250 136.556750  orientation 180.00
+position 158.018250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11033,7 +11063,7 @@ $EndMODULE  SW3,7
 $MODULE SW3,8
 footprint acheron:MX100H
 attribut smd
-position 174.593250 136.556750  orientation 180.00
+position 177.068250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11082,7 +11112,7 @@ $EndMODULE  SW3,8
 $MODULE SW3,9
 footprint acheron:MX100H
 attribut smd
-position 193.643250 136.556750  orientation 180.00
+position 196.118250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11131,7 +11161,7 @@ $EndMODULE  SW3,9
 $MODULE SW3,10
 footprint acheron:MX100H
 attribut smd
-position 212.693250 136.556750  orientation 180.00
+position 215.168250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11180,7 +11210,7 @@ $EndMODULE  SW3,10
 $MODULE SW3,11
 footprint acheron:MX100H
 attribut smd
-position 231.743250 136.556750  orientation 180.00
+position 234.218250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11229,7 +11259,7 @@ $EndMODULE  SW3,11
 $MODULE SW3,12
 footprint acheron:MX100H
 attribut smd
-position 250.793250 136.556750  orientation 180.00
+position 253.268250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11278,7 +11308,7 @@ $EndMODULE  SW3,12
 $MODULE SW3,13
 footprint acheron:MX100H
 attribut smd
-position 269.843250 136.556750  orientation 180.00
+position 272.318250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11327,7 +11357,7 @@ $EndMODULE  SW3,13
 $MODULE SW3,14
 footprint acheron:MX100H
 attribut smd
-position 331.787500 107.950000  orientation 180.00
+position 334.262500 84.425000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11376,7 +11406,7 @@ $EndMODULE  SW3,14
 $MODULE SW3,15
 footprint acheron:MX100H
 attribut smd
-position 350.837500 107.950000  orientation 180.00
+position 353.312500 84.425000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11425,7 +11455,7 @@ $EndMODULE  SW3,15
 $MODULE SW3,16
 footprint acheron:MX100H
 attribut smd
-position 369.887500 107.950000  orientation 180.00
+position 372.362500 84.425000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11474,7 +11504,7 @@ $EndMODULE  SW3,16
 $MODULE SW3,17
 footprint acheron:MX100H
 attribut smd
-position 393.668250 136.588500  orientation 180.00
+position 396.143250 113.063500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11523,7 +11553,7 @@ $EndMODULE  SW3,17
 $MODULE SW3,18
 footprint acheron:MX100H
 attribut smd
-position 412.718250 136.588500  orientation 180.00
+position 415.193250 113.063500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11572,7 +11602,7 @@ $EndMODULE  SW3,18
 $MODULE SW3,19
 footprint acheron:MX100H
 attribut smd
-position 431.768250 136.588500  orientation 180.00
+position 434.243250 113.063500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11621,7 +11651,7 @@ $EndMODULE  SW3,19
 $MODULE SW4,1
 footprint acheron_MXH:MX150H
 attribut smd
-position 46.005750 155.606750  orientation 180.00
+position 48.480750 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11670,7 +11700,7 @@ $EndMODULE  SW4,1
 $MODULE SW4,2
 footprint acheron:MX100H
 attribut smd
-position 69.818250 155.606750  orientation 180.00
+position 72.293250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11719,7 +11749,7 @@ $EndMODULE  SW4,2
 $MODULE SW4,3
 footprint acheron:MX100H
 attribut smd
-position 88.868250 155.606750  orientation 180.00
+position 91.343250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11768,7 +11798,7 @@ $EndMODULE  SW4,3
 $MODULE SW4,4
 footprint acheron:MX100H
 attribut smd
-position 107.918250 155.606750  orientation 180.00
+position 110.393250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11817,7 +11847,7 @@ $EndMODULE  SW4,4
 $MODULE SW4,5
 footprint acheron:MX100H
 attribut smd
-position 126.968250 155.606750  orientation 180.00
+position 129.443250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11866,7 +11896,7 @@ $EndMODULE  SW4,5
 $MODULE SW4,6
 footprint acheron:MX100H
 attribut smd
-position 146.018250 155.606750  orientation 180.00
+position 148.493250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11915,7 +11945,7 @@ $EndMODULE  SW4,6
 $MODULE SW4,7
 footprint acheron:MX100H
 attribut smd
-position 165.068250 155.606750  orientation 180.00
+position 167.543250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -11964,7 +11994,7 @@ $EndMODULE  SW4,7
 $MODULE SW4,8
 footprint acheron:MX100H
 attribut smd
-position 184.118250 155.606750  orientation 180.00
+position 186.593250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12013,7 +12043,7 @@ $EndMODULE  SW4,8
 $MODULE SW4,9
 footprint acheron:MX100H
 attribut smd
-position 203.168250 155.606750  orientation 180.00
+position 205.643250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12062,7 +12092,7 @@ $EndMODULE  SW4,9
 $MODULE SW4,10
 footprint acheron:MX100H
 attribut smd
-position 222.218250 155.606750  orientation 180.00
+position 224.693250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12111,7 +12141,7 @@ $EndMODULE  SW4,10
 $MODULE SW4,11
 footprint acheron:MX100H
 attribut smd
-position 241.268250 155.606750  orientation 180.00
+position 243.743250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12160,7 +12190,7 @@ $EndMODULE  SW4,11
 $MODULE SW4,12
 footprint acheron:MX100H
 attribut smd
-position 260.318250 155.606750  orientation 180.00
+position 262.793250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12209,7 +12239,7 @@ $EndMODULE  SW4,12
 $MODULE SW4,13
 footprint acheron_MXH:MX200H
 attribut smd
-position 298.418250 136.556750  orientation 180.00
+position 300.893250 113.031750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12282,7 +12312,7 @@ $EndMODULE  SW4,13
 $MODULE SW4,14
 footprint acheron:MX100H
 attribut smd
-position 331.787500 136.525000  orientation 180.00
+position 334.262500 113.000000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12331,7 +12361,7 @@ $EndMODULE  SW4,14
 $MODULE SW4,15
 footprint acheron:MX100H
 attribut smd
-position 350.837500 136.525000  orientation 180.00
+position 353.312500 113.000000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12380,7 +12410,7 @@ $EndMODULE  SW4,15
 $MODULE SW4,16
 footprint acheron:MX100H
 attribut smd
-position 369.887500 136.525000  orientation 180.00
+position 372.362500 113.000000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12429,7 +12459,7 @@ $EndMODULE  SW4,16
 $MODULE SW4,17
 footprint acheron:MX100H
 attribut smd
-position 393.668250 155.638500  orientation 180.00
+position 396.143250 132.113500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12478,7 +12508,7 @@ $EndMODULE  SW4,17
 $MODULE SW4,18
 footprint acheron:MX100H
 attribut smd
-position 412.718250 155.638500  orientation 180.00
+position 415.193250 132.113500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12527,7 +12557,7 @@ $EndMODULE  SW4,18
 $MODULE SW4,19
 footprint acheron:MX100H
 attribut smd
-position 431.768250 155.638500  orientation 180.00
+position 434.243250 132.113500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12576,7 +12606,7 @@ $EndMODULE  SW4,19
 $MODULE SW5,1
 footprint acheron_MXH:MX175H
 attribut smd
-position 48.387000 174.656750  orientation 180.00
+position 50.862000 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12625,7 +12655,7 @@ $EndMODULE  SW5,1
 $MODULE SW5,2
 footprint acheron:MX100H
 attribut smd
-position 74.580750 174.656750  orientation 180.00
+position 77.055750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12674,7 +12704,7 @@ $EndMODULE  SW5,2
 $MODULE SW5,3
 footprint acheron:MX100H
 attribut smd
-position 93.630750 174.656750  orientation 180.00
+position 96.105750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12723,7 +12753,7 @@ $EndMODULE  SW5,3
 $MODULE SW5,4
 footprint acheron:MX100H
 attribut smd
-position 112.680750 174.656750  orientation 180.00
+position 115.155750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12772,7 +12802,7 @@ $EndMODULE  SW5,4
 $MODULE SW5,5
 footprint acheron:MX100H
 attribut smd
-position 131.730750 174.656750  orientation 180.00
+position 134.205750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12821,7 +12851,7 @@ $EndMODULE  SW5,5
 $MODULE SW5,6
 footprint acheron:MX100H
 attribut smd
-position 150.780750 174.656750  orientation 180.00
+position 153.255750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12870,7 +12900,7 @@ $EndMODULE  SW5,6
 $MODULE SW5,7
 footprint acheron:MX100H
 attribut smd
-position 169.830750 174.656750  orientation 180.00
+position 172.305750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12919,7 +12949,7 @@ $EndMODULE  SW5,7
 $MODULE SW5,8
 footprint acheron:MX100H
 attribut smd
-position 188.875000 174.675000  orientation 180.00
+position 191.350000 151.150000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -12968,7 +12998,7 @@ $EndMODULE  SW5,8
 $MODULE SW5,9
 footprint acheron:MX100H
 attribut smd
-position 207.930750 174.656750  orientation 180.00
+position 210.405750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13017,7 +13047,7 @@ $EndMODULE  SW5,9
 $MODULE SW5,10
 footprint acheron:MX100H
 attribut smd
-position 226.980750 174.656750  orientation 180.00
+position 229.455750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13066,7 +13096,7 @@ $EndMODULE  SW5,10
 $MODULE SW5,11
 footprint acheron:MX100H
 attribut smd
-position 246.030750 174.656750  orientation 180.00
+position 248.505750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13115,7 +13145,7 @@ $EndMODULE  SW5,11
 $MODULE SW5,12
 footprint acheron:MX100H
 attribut smd
-position 265.080750 174.656750  orientation 180.00
+position 267.555750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13164,7 +13194,7 @@ $EndMODULE  SW5,12
 $MODULE SW5,13
 footprint acheron:MX100H
 attribut smd
-position 279.368250 155.606750  orientation 180.00
+position 281.843250 132.081750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13213,7 +13243,7 @@ $EndMODULE  SW5,13
 $MODULE SW5,14
 footprint acheron:MX100H
 attribut smd
-position 331.787500 155.575000  orientation 180.00
+position 334.262500 132.050000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13262,7 +13292,7 @@ $EndMODULE  SW5,14
 $MODULE SW5,15
 footprint acheron:MX100H
 attribut smd
-position 350.837500 155.575000  orientation 180.00
+position 353.312500 132.050000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13311,7 +13341,7 @@ $EndMODULE  SW5,15
 $MODULE SW5,16
 footprint acheron:MX100H
 attribut smd
-position 369.887500 155.575000  orientation 180.00
+position 372.362500 132.050000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13360,7 +13390,7 @@ $EndMODULE  SW5,16
 $MODULE SW5,17
 footprint acheron:MX100H
 attribut smd
-position 393.668250 174.688500  orientation 180.00
+position 396.143250 151.163500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13409,7 +13439,7 @@ $EndMODULE  SW5,17
 $MODULE SW5,18
 footprint acheron:MX100H
 attribut smd
-position 412.718250 174.688500  orientation 180.00
+position 415.193250 151.163500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13458,7 +13488,7 @@ $EndMODULE  SW5,18
 $MODULE SW5,19
 footprint acheron:MX100H
 attribut smd
-position 431.768250 174.688500  orientation 180.00
+position 434.243250 151.163500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13507,7 +13537,7 @@ $EndMODULE  SW5,19
 $MODULE SW6,1
 footprint acheron_MXH:MX125H
 attribut smd
-position 43.624500 193.706750  orientation 180.00
+position 46.099500 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13556,7 +13586,7 @@ $EndMODULE  SW6,1
 $MODULE SW6,2
 footprint acheron:MX100H
 attribut smd
-position 65.055750 193.706750  orientation 180.00
+position 67.530750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13605,7 +13635,7 @@ $EndMODULE  SW6,2
 $MODULE SW6,3
 footprint acheron:MX100H
 attribut smd
-position 84.105750 193.706750  orientation 180.00
+position 86.580750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13654,7 +13684,7 @@ $EndMODULE  SW6,3
 $MODULE SW6,4
 footprint acheron:MX100H
 attribut smd
-position 103.155750 193.706750  orientation 180.00
+position 105.630750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13703,7 +13733,7 @@ $EndMODULE  SW6,4
 $MODULE SW6,5
 footprint acheron:MX100H
 attribut smd
-position 122.205750 193.706750  orientation 180.00
+position 124.680750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13752,7 +13782,7 @@ $EndMODULE  SW6,5
 $MODULE SW6,6
 footprint acheron:MX100H
 attribut smd
-position 141.255750 193.706750  orientation 180.00
+position 143.730750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13801,7 +13831,7 @@ $EndMODULE  SW6,6
 $MODULE SW6,7
 footprint acheron:MX100H
 attribut smd
-position 160.305750 193.706750  orientation 180.00
+position 162.780750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13850,7 +13880,7 @@ $EndMODULE  SW6,7
 $MODULE SW6,8
 footprint acheron:MX100H
 attribut smd
-position 179.355750 193.706750  orientation 180.00
+position 181.830750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13899,7 +13929,7 @@ $EndMODULE  SW6,8
 $MODULE SW6,9
 footprint acheron:MX100H
 attribut smd
-position 198.405750 193.706750  orientation 180.00
+position 200.880750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13948,7 +13978,7 @@ $EndMODULE  SW6,9
 $MODULE SW6,10
 footprint acheron:MX100H
 attribut smd
-position 217.455750 193.706750  orientation 180.00
+position 219.930750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -13997,7 +14027,7 @@ $EndMODULE  SW6,10
 $MODULE SW6,11
 footprint acheron:MX100H
 attribut smd
-position 236.505750 193.706750  orientation 180.00
+position 238.980750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14046,7 +14076,7 @@ $EndMODULE  SW6,11
 $MODULE SW6,12
 footprint acheron:MX100H
 attribut smd
-position 284.130750 174.656750  orientation 180.00
+position 286.605750 151.131750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14095,7 +14125,7 @@ $EndMODULE  SW6,12
 $MODULE SW6,13
 footprint acheron:MX_ISOEnterH
 attribut smd
-position 305.562000 165.131750  orientation 180.00
+position 308.037000 141.606750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14168,7 +14198,7 @@ $EndMODULE  SW6,13
 $MODULE SW6,14
 footprint acheron:MX100H
 attribut smd
-position 331.760000 193.740000  orientation 180.00
+position 334.235000 170.215000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14217,7 +14247,7 @@ $EndMODULE  SW6,14
 $MODULE SW6,15
 footprint acheron:MX100H
 attribut smd
-position 350.805750 193.738500  orientation 180.00
+position 353.280750 170.213500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14266,7 +14296,7 @@ $EndMODULE  SW6,15
 $MODULE SW6,16
 footprint acheron:MX100H
 attribut smd
-position 369.850000 193.725000  orientation 180.00
+position 372.325000 170.200000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14315,7 +14345,7 @@ $EndMODULE  SW6,16
 $MODULE SW6,17
 footprint acheron:MX100H
 attribut smd
-position 393.668250 193.738500  orientation 180.00
+position 396.143250 170.213500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14364,7 +14394,7 @@ $EndMODULE  SW6,17
 $MODULE SW6,18
 footprint acheron:MX100H
 attribut smd
-position 412.718250 193.738500  orientation 180.00
+position 415.193250 170.213500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14413,7 +14443,7 @@ $EndMODULE  SW6,18
 $MODULE SW6,19
 footprint acheron:MX100H
 attribut smd
-position 431.768250 193.738500  orientation 180.00
+position 434.243250 170.213500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14462,7 +14492,7 @@ $EndMODULE  SW6,19
 $MODULE SW7,1
 footprint acheron_MXH:MX125H
 attribut smd
-position 43.624500 212.756750  orientation 180.00
+position 46.099500 189.231750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14511,7 +14541,7 @@ $EndMODULE  SW7,1
 $MODULE SW7,2
 footprint acheron_MXH:MX125H
 attribut smd
-position 67.437000 212.756750  orientation 180.00
+position 69.912000 189.231750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14560,7 +14590,7 @@ $EndMODULE  SW7,2
 $MODULE SW7,3
 footprint acheron_MXH:MX125H
 attribut smd
-position 91.249500 212.756750  orientation 180.00
+position 93.724500 189.231750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14609,7 +14639,7 @@ $EndMODULE  SW7,3
 $MODULE SW7,4
 footprint acheron:MX100H
 attribut smd
-position 122.200000 212.750000  orientation 180.00
+position 124.675000 189.225000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14658,7 +14688,7 @@ $EndMODULE  SW7,4
 $MODULE SW7,5
 footprint acheron:MX100H
 attribut smd
-position 141.260000 212.740000  orientation 180.00
+position 143.735000 189.215000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14707,7 +14737,7 @@ $EndMODULE  SW7,5
 $MODULE SW7,6
 footprint acheron_MXH:MX625H
 attribut smd
-position 162.687000 212.756750  orientation 180.00
+position 165.162000 189.231750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14780,7 +14810,7 @@ $EndMODULE  SW7,6
 $MODULE SW7,7
 footprint acheron:MX100H
 attribut smd
-position 198.400000 212.750000  orientation 180.00
+position 200.875000 189.225000  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14829,7 +14859,7 @@ $EndMODULE  SW7,7
 $MODULE SW7,8
 footprint acheron_MXH:MX125H
 attribut smd
-position 234.124500 212.756750  orientation 180.00
+position 236.599500 189.231750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14878,7 +14908,7 @@ $EndMODULE  SW7,8
 $MODULE SW7,9
 footprint acheron_MXH:MX125H
 attribut smd
-position 257.937000 212.756750  orientation 180.00
+position 260.412000 189.231750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14927,7 +14957,7 @@ $EndMODULE  SW7,9
 $MODULE SW7,10
 footprint acheron_MXH:MX125H
 attribut smd
-position 281.749500 212.756750  orientation 180.00
+position 284.224500 189.231750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -14976,7 +15006,7 @@ $EndMODULE  SW7,10
 $MODULE SW7,11
 footprint acheron_MXH:MX125H
 attribut smd
-position 305.562000 212.756750  orientation 180.00
+position 308.037000 189.231750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -15025,7 +15055,7 @@ $EndMODULE  SW7,11
 $MODULE SW7,12
 footprint acheron:MX100H
 attribut smd
-position 255.555750 193.706750  orientation 180.00
+position 258.030750 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -15074,7 +15104,7 @@ $EndMODULE  SW7,12
 $MODULE SW7,13
 footprint acheron_MXH:MX275H
 attribut smd
-position 291.274500 193.706750  orientation 180.00
+position 293.749500 170.181750  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -15147,7 +15177,7 @@ $EndMODULE  SW7,13
 $MODULE SW7,14
 footprint acheron:MX100H
 attribut smd
-position 331.755750 212.788500  orientation 180.00
+position 334.230750 189.263500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -15196,7 +15226,7 @@ $EndMODULE  SW7,14
 $MODULE SW7,15
 footprint acheron:MX100H
 attribut smd
-position 350.805750 212.788500  orientation 180.00
+position 353.280750 189.263500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -15245,7 +15275,7 @@ $EndMODULE  SW7,15
 $MODULE SW7,16
 footprint acheron:MX100H
 attribut smd
-position 369.855750 212.788500  orientation 180.00
+position 372.330750 189.263500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -15294,7 +15324,7 @@ $EndMODULE  SW7,16
 $MODULE SW7,17
 footprint acheron_MXH:MX200H
 attribut smd
-position 403.193250 212.788500  orientation 180.00
+position 405.668250 189.263500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -15367,7 +15397,7 @@ $EndMODULE  SW7,17
 $MODULE SW7,18
 footprint acheron:MX100H
 attribut smd
-position 431.768250 212.788500  orientation 180.00
+position 434.243250 189.263500  orientation 180.00
 layer back
 $PAD ""
 Shape Circle Layer both
@@ -15416,7 +15446,7 @@ $EndMODULE  SW7,18
 $MODULE SW201
 footprint Button_Switch_THT:SW_PUSH_6mm_H5mm
 attribut none
-position 236.750000 82.450000  orientation 180.00
+position 239.225000 58.925000  orientation 180.00
 layer back
 $PAD "1"
 Shape Circle Layer both
@@ -15447,7 +15477,7 @@ $EndMODULE  SW201
 $MODULE SW202
 footprint Button_Switch_THT:SW_PUSH_6mm_H5mm
 attribut none
-position 230.650000 60.950000  orientation 0.00
+position 233.125000 37.425000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -15478,7 +15508,7 @@ $EndMODULE  SW202
 $MODULE U501
 footprint 2021-09-09_19-40-16:STM32F072VBT6
 attribut none
-position 234.315000 117.475000  orientation 180.00
+position 236.790000 93.950000  orientation 180.00
 layer back
 $PAD "1"
 Shape Rect Layer back
@@ -16085,7 +16115,7 @@ $EndMODULE  U501
 $MODULE U502
 footprint Package_TO_SOT_SMD:SOT-23-6_Handsoldering
 attribut smd
-position 54.516000 123.904000  orientation 180.00
+position 56.991000 100.379000  orientation 180.00
 layer back
 $PAD "1"
 Shape Rect Layer back
@@ -16128,7 +16158,7 @@ $EndMODULE  U502
 $MODULE U701
 footprint acheron_Components:SOT-23-6
 attribut smd
-position 148.016000 110.066000  orientation -90.00
+position 150.491000 86.541000  orientation -90.00
 layer back
 $PAD "1"
 Shape Rect Layer back
@@ -16171,7 +16201,7 @@ $EndMODULE  U701
 $MODULE U702
 footprint Package_TO_SOT_SMD:TSOT-23-6_HandSoldering
 attribut smd
-position 138.353800 93.370400  orientation -90.00
+position 140.828800 69.845400  orientation -90.00
 layer back
 $PAD "1"
 Shape Rect Layer back
