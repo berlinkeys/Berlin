@@ -1,3 +1,5 @@
+:warning: This hardware is not yet finished! There are a number of bugs.
+
 # Berlin Keyboard
 
 ## Introduction
@@ -24,3 +26,8 @@ Dead space was never an option, so why not add an LCD instead of LED Indicators.
 * Per Key RGBLED Lighting
 * USB-C
 * QMK and Vial support
+
+## Known Bugs
+- Missing Trace: Switch 7,7: Diode Side from Hotswap to PVia
+- Missing Trace: Switch RShift: Diode Side from Hotswap to PVia
+- Missing Trace: Switch RShift: Column Side from Hotswap to PVia
