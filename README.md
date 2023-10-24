@@ -1,6 +1,6 @@
 # Berlin Keyboard
 
-*Notice: this is a archival branch of the first PCB we physically tested. It is not bugfree and should not be used as is.*
+*Notice: this is a archival development branch. It is not bugfree and there are planned changes to be implemented.*
 
 ## Introduction
 Berlin is a 120% Keyboard based on the design of the [Boston](https://github.com/bluepylons/Boston) keyboard. 
